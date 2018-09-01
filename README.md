@@ -129,6 +129,10 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [360iDev](http://360idev.com)
 * [CocoaConf](http://cocoaconf.com)
 * [Pragma Conference](http://www.pragmaconference.com)
+* [Swiftconf](https://swiftconf.com)
+* [Swift by Northwest](https://swiftbynorthwest.com)
+* [DOiOS](https://do-ios.com)
+* [iOS Conf SG](http://iosconf.sg)
 
 
 
@@ -149,6 +153,9 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [iOS Dev Weekly](https://iosdevweekly.com)
 * [This week in Swift](https://swiftnews.curated.co)
 * [Swiftweekly](http://swiftweekly.com) 
+* [AppCoda Weekly](http://digest.appcoda.com)
+* [iOS Cookies](https://us11.campaign-archive.com/home/?u=cd1f3ed33c6527331d82107ba&id=532dc7fb64)
+* [indie iOS Weekly](https://indieiosfocus.com/issues)
 
 
 ## Device Specification
@@ -330,6 +337,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Uplabs](https://www.uplabs.com/ios)
 * [pttrns](https://pttrns.com/iphone-patterns)
 * [Behance](https://www.behance.net/search?search=ios)
+* [Inspired UI](http://inspired-ui.com)
 
 
 ## 3D Resource
@@ -400,6 +408,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Twitter Developers](https://developer.twitter.com)
 * [AWS Mobile](https://aws.amazon.com/ko/mobile/)
 * [Instagram API](https://www.instagram.com/developer/)
+* [API Directory](https://www.programmableweb.com/apis/directory)
 
 
 ## Mobile DataBase
