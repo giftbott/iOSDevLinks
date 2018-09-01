@@ -34,6 +34,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Automation](#automation)
 * [Analytics](#analytics)
 * [AD](#ad)
+* [CI](#ci)
 * [Tool](#tool)
 * [Algorithm](#algorithm)
 * [Recruit](#recruit)
@@ -86,6 +87,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 * [API Design Guidelines](https://swift.org/documentation/api-design-guidelines)
 * [Raywenderich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
+* [SwiftLint](https://github.com/realm/SwiftLint) -  스위프트 코딩 스타일 및 컨벤션 강제를 위한 라이브러리
 
 <br>
 
@@ -137,7 +139,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [try! Swift](https://www.tryswift.co)
 * [RWDevCon](https://www.rwdevcon.com)
 * [360iDev](http://360idev.com)
-* [CocoaConf](http://cocoaconf.com)
 * [Pragma Conference](http://www.pragmaconference.com)
 
 <br>
@@ -493,9 +494,21 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 <br>
 
+## CI
+
+*지속적 통합(Continous Integration)을 위한 주요 서비스 모음. 주로 fastlane 과 연동하여 CI/CD 구현*
+
+* [CD(지속적 배포) 가이드](https://ko.atlassian.com/continuous-delivery) - CI / CD 에 대한 개념 가이드
+* [Xcode Server](https://developer.apple.com/videos/play/wwdc2017/403) - Xcode 9 부터 CI 를 지원하기 위한 제공되기 시작한 내장 기능
+* [Travis CI](https://travis-ci.org) - 가장 대표적인 CI 서비스 중 하나로 호스트형 서비스. 오픈소스에 적용 시 무료.
+* [Circle CI](https://circleci.com) - Travis 와 같은 호스트형 서비스. 매달 빌드 소요시간 1,500분까지 무료
+* [Jenkins](https://jenkins.io) - Java로 개발된 오픈소스 툴로써 대표적인 설치형 서비스. 무료이나 직접 빌드 서버 설정 필요
+
+<br>
+
 ## Tool
 
-*iOS 개발에 도움될 도구 모음*
+*iOS 개발에 유용한 도구 모음*
 
 * [Alfred](https://www.alfredapp.com) - 맥 사용자 생산성 향상에 필요한 필수 앱
 * [iTerm](https://www.iterm2.com) - 기본 터미널 기능을 강화한 macOS용 터미널 프로그램
