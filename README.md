@@ -8,43 +8,45 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 
 ## Content
-- [Basic](#basic)
-- [Apple Programming Guide](#apple-programming-guide)
-- [Community](#community)
-- [Conference](#conference)
-- [Blog](#blog)
-- [Mailing List](#mailing-list)
-- [Device Specification](#device-specification)
-- [Icon](#icon)
-- [Color](#color)
-- [Font](#font)
-- [Sound](#sound)
-- [Image](#image)
-- [Dependency Manager](#dependency-manager)
-- [OpenSource Library Collection](#opensource-library-collection)
-- [Git](#git)
-- [Markdown](#markdown)
-- [Design](#design)
-- [Design Reference Site](#design-reference-site)
-- [3D Resource](#3d-resource)
-- [Prototyping Tool](#prototyping-tool)
-- [Learning](#learning)
-- [Platform / Open API](#platforms--open-api)
-- [Mobile DataBase](#mobile-database)
-- [Automation](#automation)
-- [Analytics](#analytics)
-- [AD](#ad)
-- [Tool](#tool)
-- [Algorithm](#algorithm)
-- [Recruit](#recruit)
-- [etc](#etc)
+
+* [Basic](#basic)
+* [Apple Programming Guide](#apple-programming-guide)
+* [Community](#community)
+* [Conference](#conference)
+* [Blog](#blog)
+* [Mailing List](#mailing-list)
+* [Device Specification](#device-specification)
+* [Icon](#icon)
+* [Color](#color)
+* [Font](#font)
+* [Sound](#sound)
+* [Image](#image)
+* [Dependency Manager](#dependency-manager)
+* [OpenSource Library Collection](#opensource-library-collection)
+* [Git](#git)
+* [Markdown](#markdown)
+* [Design](#design)
+* [Design Reference Site](#design-reference-site)
+* [3D Resource](#3d-resource)
+* [Prototyping Tool](#prototyping-tool)
+* [Learning](#learning)
+* [Platform / Open API](#platforms--open-api)
+* [Mobile DataBase](#mobile-database)
+* [Automation](#automation)
+* [Analytics](#analytics)
+* [AD](#ad)
+* [Tool](#tool)
+* [Algorithm](#algorithm)
+* [Recruit](#recruit)
+* [etc](#etc)
+
 
 ## Basic
+
 #### Swift
 
 * [Swift Language](https://swift.org)
 * [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
-
 * [Swift GitHub](https://github.com/apple/swift)
 * [SwiftDoc](https://swiftdoc.org)
 * [Swift Evolution](https://github.com/apple/swift-evolution)
@@ -52,7 +54,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 #### Apple
 
 * [Developer Site](https://developer.apple.com/develop/)
-
 * [Developer Documentation](https://developer.apple.com/documentation/)
 * [Documentation Archive](https://developer.apple.com/library/archive/navigation/)
 
@@ -68,11 +69,11 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 #### App Store Connect
 
-- [App Store Connect](https://appstoreconnect.apple.com)
-- [App Store Connect Help](https://help.apple.com/app-store-connect/)
-- [App Store Connect Overview](https://itunespartner.apple.com/en/apps/news)
-- [App Store Connect Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
-- [Common App Rejections](https://developer.apple.com/app-store/review/rejections/)
+* [App Store Connect](https://appstoreconnect.apple.com)
+* [App Store Connect Help](https://help.apple.com/app-store-connect/)
+* [App Store Connect Overview](https://itunespartner.apple.com/en/apps/news)
+* [App Store Connect Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+* [Common App Rejections](https://developer.apple.com/app-store/review/rejections/)
 
 #### Design Guideline
 
@@ -81,43 +82,27 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 #### Coding Style Guideline
 
-- [API Design Guidelines](https://swift.org/documentation/api-design-guidelines)
-- [Raywenderich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
-
+* [API Design Guidelines](https://swift.org/documentation/api-design-guidelines)
+* [Raywenderich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
 
 
 ## Apple Programming Guide
 
 * [App Programming Guide for iOS](https://goo.gl/mu57YK)
-
 * [ViewController Programming Guide for iOS](https://goo.gl/pLv5rF) 
-
-* [View Programming Guide for iOS](https://goo.gl/cc9bx1)
-
-* [Auto Layout Guide](https://goo.gl/jPnmcX)
-
-* [Debugging with Xcode](https://goo.gl/4XZNxq)
-
-* [Code Signing Guide](https://goo.gl/1KZL5q)
-
+* [View Programming Guide for iOS](https://goo.gl/cc9bx1) 
+* [Auto Layout Guide](https://goo.gl/jPnmcX) 
+* [Debugging with Xcode](https://goo.gl/4XZNxq) 
+* [Code Signing Guide](https://goo.gl/1KZL5q) 
 * [File System Programming Guide](https://goo.gl/Bxm1H6)
-
 * [Text Programming Guide for iOS](https://goo.gl/E1ndzH)
-
 * [Table View Programming Guide for iOS](https://goo.gl/2JUPAu)
-
 * [Simulator User Guide](https://goo.gl/p5hp2q)
-
 * [Bundle Programming Guide](https://goo.gl/CjMYXh)
-
 * [In-App Purchase Programming Guide](https://goo.gl/64c7LP)
-
 * [iOS Device Compatibility Reference](https://goo.gl/9CPsF7)
-
 * [Information Property List Key Reference](https://goo.gl/6Pt2te)
-
 * [Local and Remote Notification Programming Guide](https://goo.gl/RQRmHT)
-
 
 
 ## Community
@@ -131,7 +116,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [맥 쓰는 사람들 (카페)](https://cafe.naver.com/inmacbook)
 
 
-
 ## Conference
 
 * [LetSwift](http://letswift.kr)
@@ -139,7 +123,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Swift Korea Meetup](https://swiftkorea.github.io/meetup/)
 
 **Overseas**
-
 * [AltConf](http://altconf.com)
 * [try! Swift](https://www.tryswift.co)
 * [RWDevCon](https://www.rwdevcon.com)
@@ -159,19 +142,13 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Natasha The Robot](https://www.natashatherobot.com)
 
 
-
 ## Mailing List
 
 * [Swift Public Mailing List](https://lists.swift.org/mailman/listinfo)
-
 * [iOS Goodies](http://ios-goodies.com)
-
 * [iOS Dev Weekly](https://iosdevweekly.com)
-
 * [This week in Swift](https://swiftnews.curated.co)
-
-* [Swiftweekly](http://swiftweekly.com)
-
+* [Swiftweekly](http://swiftweekly.com) 
 
 
 ## Device Specification
@@ -182,46 +159,32 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [iOS Device Compatibility Reference](https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html)
 * [iOS Device Specs Grid](http://blakespot.com/ios_device_specifications_grid.html)
 * [List of iOS Devices](https://en.wikipedia.org/wiki/List_of_iOS_devices)
-* [iPhone Resolutions](https://goo.gl/vwbzQY)
-
+* [iPhone Resolutions](https://goo.gl/vwbzQY) 
 * [iPhone 6 Screens Demystified](https://goo.gl/nNXDWL)
 * [iPhone X Screen Demystified](https://goo.gl/rxLKtX)
-
 
 
 ## Icon
 
 * [icons8](https://icons8.com)
-* [thenounproject](https://thenounproject.com)​	 
-
-* [iconfinder](https://www.iconfinder.com)
-
-* [flaticon](https://www.flaticon.com)
-
+* [thenounproject](https://thenounproject.com) 
+* [iconfinder](https://www.iconfinder.com) 
+* [flaticon](https://www.flaticon.com) 
 * [material icons](https://material.io/icons/)
 
 **Paid**
-
 * [PixelLove](https://www.pixellove.com)
-
 * [Streamline](https://www.streamlineicons.com)
-
 
 
 ## Color
 
-* [iOS System Color Scheme](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color)
-
-* [Material Design Color](https://material.io/color)
-
-* [material design palette](https://www.materialpalette.com)
-
-* [Gradients Collection](https://uigradients.com/)
-
-* [Coolors](https://coolors.co)
-
+* [iOS System Color Scheme](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color) 
+* [Material Design Color](https://material.io/color) 
+* [material design palette](https://www.materialpalette.com) 
+* [Gradients Collection](https://uigradients.com/) 
+* [Coolors](https://coolors.co) 
 * [Flat UI Colors](https://flatuicolors.com)
-
 
 
 ## Font
@@ -229,68 +192,47 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [구글](https://github.com/google/fonts)
 * [네이버](https://hangeul.naver.com/2017/nanum)
 * [우아한 형제들](http://font.woowahan.com)
-
 * [야놀자](http://yanolja.in/ko/yafont/)
-
 * [티몬](https://brunch.co.kr/@creative/32)
-
-* [미생체](http://webtoon.daum.net/event/misaengfont)
-
-* [서울 서체](http://www.seoul.go.kr/v2012/seoul/symbol/font.html)
-
-* [가비아](https://company.gabia.com/font)
-
-* [무료 폰트 모음](http://hellchosun.net/52)
-
-* [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - 이미지에 적용된 폰트가 무엇인지 궁금하다면 <-
-
+* [미생체](http://webtoon.daum.net/event/misaengfont) 
+* [서울 서체](http://www.seoul.go.kr/v2012/seoul/symbol/font.html) 
+* [가비아](https://company.gabia.com/font) 
+* [무료 폰트 모음](http://hellchosun.net/52) 
+* [WhatTheFont](https://www.myfonts.com/WhatTheFont/) - 이미지에 적용된 폰트가 무엇인지 궁금하다면 <- 
 * [wordmark](https://wordmark.it) - 컴퓨터에 설치된 폰트 모두를 한 번에 비교해보려면 <-
 
 **Tool**
-
 * [FontBase](https://fontba.se) - 폰트 관리 도구
-
 
 
 ## Sound
 
 효과음이나 배경음으로 사용할만한 무료 사운드
 
-**Sound Effect**
-
+**Sound Effect** 
 * [Facebook SoundKit](https://facebook.design/soundkit)
-* [Google Sound Library](https://developers.google.com/actions/tools/sound-library)
-
+* [Google Sound Library](https://developers.google.com/actions/tools/sound-library) 
 * [Free sound](https://freesound.org)
 * [SoundBible](http://soundbible.com)
-* [Find Sounds](http://www.findsounds.com)
-
-* [Emoji Sounds](https://emojisounds.appsounds.pro)
-
-* [Noise for Fun](https://www.noiseforfun.com)
-
+* [Find Sounds](http://www.findsounds.com) 
+* [Emoji Sounds](https://emojisounds.appsounds.pro) 
+* [Noise for Fun](https://www.noiseforfun.com) 
 * [Free SFX](https://www.freesfx.co.uk)
 
 **Music**
-
 * [Bensound](https://www.bensound.com/royalty-free-music)
 * [Music for Video](https://music-for-video.com/subscribe-to-our-newsletter-and-get-free-music-tracks)
 * [Incompetech](https://incompetech.com)
 
 
-
 ## Image
 
-**Placeholder Image**
-
-* [LoremFlickr](https://loremflickr.com)
-
-* [Lorem Picsum](https://picsum.photos)
-
+**Placeholder Image** 
+* [LoremFlickr](https://loremflickr.com) 
+* [Lorem Picsum](https://picsum.photos) 
 * [dummyImage](https://dummyimage.com)
 
-**High Resolution Photo**
-
+**High Resolution Photo** 
 * [unsplash](https://unsplash.com)
 * [pixabay](https://pixabay.com)
 * [pexels](https://www.pexels.com)
@@ -298,30 +240,25 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [foodiesfeed](https://www.foodiesfeed.com)
 
 
-
 ## Git
 
-- [Git 공식 홈페이지](https://git-scm.com)
-- [Pro Git 2nd Edition](https://git-scm.com/book/ko/v2)
-- [git ignore.io](https://www.gitignore.io)
+* [Git 공식 홈페이지](https://git-scm.com)
+* [Pro Git 2nd Edition](https://git-scm.com/book/ko/v2)
+* [git ignore.io](https://www.gitignore.io)
 
 **Repository**
-
-- [Github](https://github.com)
-- [Bitbucket](https://bitbucket.org)
+* [Github](https://github.com)
+* [Bitbucket](https://bitbucket.org)
 
 **Git GUI Tool**
-
-- [Sourcetree](https://www.sourcetreeapp.com)
-- [GitKraken](https://www.gitkraken.com)
+* [Sourcetree](https://www.sourcetreeapp.com)
+* [GitKraken](https://www.gitkraken.com)
 
 **Tutorial / Guide**
-
-- [Resources to learn Git](https://try.github.io)
-- [Git-Turorial](https://backlog.com/git-tutorial/kr)
-- [git - 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
-- [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-ko.html)
-
+* [Resources to learn Git](https://try.github.io)
+* [Git-Turorial](https://backlog.com/git-tutorial/kr)
+* [git - 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
+* [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-ko.html)
 
 
 ## Dependency Manager
@@ -333,7 +270,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Swift Package Manager](https://github.com/apple/swift-package-manager)
 
 
-
 ## OpenSource Library Collection
 
 오픈소스 라이브러리 및 앱 콜렉션 모음
@@ -341,65 +277,48 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Awesome-iOS](https://github.com/vsouza/awesome-ios)
 * [Awesome-Swift](https://github.com/matteocrippa/awesome-swift)
 * [Awesome-Swift](https://github.com/Wolg/awesome-swift)
-
-- [Awesome iOS with stars count](https://awesome-repos.ecp.plus/ios.html#categories)
-
+* [Awesome iOS with stars count](https://awesome-repos.ecp.plus/ios.html#categories)
 * [Awesome-iOS](http://awesome-ios.readthedocs.io/en/latest/#awesome-ios)
 
 **UI**
-
 * [Awesome-iOS-UI](https://github.com/cjwirth/awesome-ios-ui)
-
 * [Fantastic-iOS-Animation](https://github.com/onmyway133/fantastic-ios-animation)
-
 * [Swift UI Libraries](https://goo.gl/WdvyLk)
 * [Cocoa Controls](https://www.cocoacontrols.com)
 
 **App**
-
 * [Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
-
 
 
 ## Markdown
 
-- [GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown) - GitHub 마크다운 매뉴얼
-- [grip](https://github.com/joeyespo/grip) - Offline Github Markdown Preview 
-- [DILLINGER](https://dillinger.io) - Online Markdown Editor
+* [GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown) - GitHub 마크다운 매뉴얼
+* [grip](https://github.com/joeyespo/grip) - Offline Github Markdown Preview 
+* [DILLINGER](https://dillinger.io) - Online Markdown Editor
 
 **Tool**
-
 * [Typora](https://typora.io) - 추천 마크다운 에디터
-
 
 
 ## Design
 
 **Tool**
-
 * [Sketch](https://www.sketchapp.com)
-
 * [Zeplin](https://zeplin.io)
 
 **Material Design**
-
 * [Material Design](https://material.io)
-
 * [Material Design Components](https://material.io/components/ios)
 
 **Facebook Design**
-
 * [Facebook Design](http://facebook.design)
-
 * [Facebook Design iOS11 GUI](http://facebook.design/ios11)
 * [Facebook Messenger Platform Design Kit](https://facebook.design/messengerkit)
 
 **Resource**
-
-- [Apple Design Resources](https://developer.apple.com/design/resources/#ios-apps)
-- [Sketch App Resources](https://www.sketchappsources.com/tag/ios.html)
-- [Sketch REPO](https://sketchrepo.com)
-
+* [Apple Design Resources](https://developer.apple.com/design/resources/#ios-apps)
+* [Sketch App Resources](https://www.sketchappsources.com/tag/ios.html)
+* [Sketch REPO](https://sketchrepo.com)
 
 
 ## Design Reference Site
@@ -413,117 +332,79 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Behance](https://www.behance.net/search?search=ios)
 
 
-
 ## 3D Resource
 
 **3D Assets**
-
-- [Sketchfab](https://sketchfab.com)
-
-- [3D Warehouse](https://3dwarehouse.sketchup.com)
-
-- [Turbosquid](https://www.turbosquid.com)
-
-- [cgtrader](https://www.cgtrader.com)
+* [Sketchfab](https://sketchfab.com)
+* [3D Warehouse](https://3dwarehouse.sketchup.com)
+* [Turbosquid](https://www.turbosquid.com)
+* [cgtrader](https://www.cgtrader.com)
 
 **3D Textures**
-
-- [3D Textures](https://3dtextures.me)
-
-- [Motionworks](https://motionworks.net/shop/material-pack-element-3d)
-
-- [V-Ray Materials](http://www.vraymaterials.co.uk)
-
+* [3D Textures](https://3dtextures.me)
+* [Motionworks](https://motionworks.net/shop/material-pack-element-3d)
+* [V-Ray Materials](http://www.vraymaterials.co.uk)
 
 
 ## Prototyping Tool
 
 * [Invision](https://www.invisionapp.com)
-
 * [Marvel](https://marvelapp.com)
 * [Framer](https://framer.com)
-* [Balsamiq](https://balsamiq.com)
-
-* [Flinto](https://www.flinto.com)
-
+* [Balsamiq](https://balsamiq.com) 
+* [Flinto](https://www.flinto.com) 
 * [Origami](https://origami.design)
-
 
 
 ## Learning
 
 * [생활코딩](https://www.opentutorials.org)
-
 * [T 아카데미](https://tacademy.sktechx.com)
 * [edwith](https://www.edwith.org)
-
 * [Realm 아카데미](https://academy.realm.io/kr/section/apple/)
-
 * [한글링](http://hangling.org/#/home)
 * [KOCW](http://www.kocw.net)
 * [K-MOOC](http://www.kmooc.kr)
-
 * [Programmers](https://programmers.co.kr/learn/courses/4)
-
 * [Khan Academy](https://ko.khanacademy.org/computing)
 * [인프런](https://www.inflearn.com)
 
 **Overseas**
-
 * [edX](https://www.edx.org)
-
 * [Coursera](https://www.coursera.org)
-
 * [UDACITY](https://www.udacity.com)
-
 * [Udemy](https://www.udemy.com)
 
 **Presentation Slide**
-
 * [SlideShare](https://www.slideshare.net)
-
 * [Speaker Deck](https://speakerdeck.com)
-
 
 
 ## Platforms / Open API
 
 * [Naver Developers](https://developers.naver.com)
-
 * [Kakao Developers](https://developers.kakao.com)
-
 * [T Developers](https://developers.sktelecom.com)
-
 * [공공데이터 포털](https://www.data.go.kr)
-
 * [관광공사 Tour API](http://api.visitkorea.or.kr)
-
 * [국가통계포털 공유서비스](http://kosis.kr/openapi/index/index.jsp)
 * [서울열린데이터광장](https://data.seoul.go.kr/)
 * [서울시 공공앱 API](https://mplatform.seoul.go.kr/api/main.do)
 
 **Overseas**
-
 * [Firebase](https://firebase.google.com)
-
 * [Facebook for Developers](https://developers.facebook.com)
 * [GitHub Developer](https://developer.github.com)
 * [YAHOO Developer Network](https://developer.yahoo.com)
-
-- [Slack API](https://api.slack.com)
-
-- [Twitter Developers](https://developer.twitter.com)
-
+* [Slack API](https://api.slack.com)
+* [Twitter Developers](https://developer.twitter.com)
 * [AWS Mobile](https://aws.amazon.com/ko/mobile/)
-
 * [Instagram API](https://www.instagram.com/developer/)
-
 
 
 ## Mobile DataBase
 
-- [Realm](https://realm.io)
-
+* [Realm](https://realm.io)
 
 
 ## Automation
@@ -531,25 +412,18 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Fastlane](https://fastlane.tools) - 사이닝, 테스트, 빌드, 배포 등 앱 개발 외의 작업 자동화
 
 
-
 ## Analytics
 
 * [Google Analytics](https://www.google.com/analytics)
-
 * [Facebook Analytics](https://analytics.facebook.com)
-
 * [Crashlytics](https://try.crashlytics.com)
-
 * [Yahoo Flurry](https://developer.yahoo.com/analytics/)
 
 **Paid**
-
 * [Adjust](https://www.adjust.com)
 * [Mixpanel](https://mixpanel.com)
 * [Amazon Pinpoint](https://aws.amazon.com/ko/pinpoint)
-
 * [유저해빗](https://www.userhabit.io/ko)
-
 
 
 ## AD
@@ -558,7 +432,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 * [Google AdMob](https://developers.google.com/admob/ios/quick-start)
 * [Facebook Audience-Network](https://developers.facebook.com/docs/audience-network/ios)
-
 
 
 ## Tool
@@ -571,44 +444,36 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Visual Studio Code](https://code.visualstudio.com) - 추천 텍스트 에디터
 
 **Paid**
-
 * [AppCode](https://www.jetbrains.com/objc/) - JetBrains 에서 개발한 iOS/macOS 개발용 IDE
 * [REVEAL](https://revealapp.com) - 런타임 뷰 디버깅
 
 
-
 ## Algorithm
 
-- [백준 온라인 저지](https://www.acmicpc.net)
-- [코딩도장](http://codingdojang.com)
-- [알고스팟](https://algospot.com)
-- [프로젝트 오일러](http://euler.synap.co.kr)
-- [프로그래머스](https://programmers.co.kr/learn/challenges)
-- [한국정보올림피아드](https://www.digitalculture.or.kr/koi/selectOlymPiadDissentList.do)
+* [백준 온라인 저지](https://www.acmicpc.net)
+* [코딩도장](http://codingdojang.com)
+* [알고스팟](https://algospot.com)
+* [프로젝트 오일러](http://euler.synap.co.kr)
+* [프로그래머스](https://programmers.co.kr/learn/challenges)
+* [한국정보올림피아드](https://www.digitalculture.or.kr/koi/selectOlymPiadDissentList.do)
 
 **Overseas**
-
-- [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
-- [Codility](https://codility.com)
-- [Hacker Rank](https://www.hackerrank.com)
-- [Project Euler](https://projecteuler.net)
-- [Codechef](https://www.codechef.com)
-
+* [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
+* [Codility](https://codility.com)
+* [Hacker Rank](https://www.hackerrank.com)
+* [Project Euler](https://projecteuler.net)
+* [Codechef](https://www.codechef.com)
 
 
 ## Recruit
 
 **Site**
-
 * [Wanted](https://www.wanted.co.kr)
 * [Jobplanet](https://www.jobplanet.co.kr)
-
 * [RocketPunch](https://www.rocketpunch.com)
 
 **Info**
-
 * [주니어 채용 스케쥴 정보](https://github.com/jojoldu/junior-recruit-scheduler)
-
 
 
 ## etc
