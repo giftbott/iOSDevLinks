@@ -20,13 +20,12 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Font](#font)
 * [Sound](#sound)
 * [Image](#image)
+* [Git](#git)
 * [Dependency Manager](#dependency-manager)
 * [OpenSource Library Collection](#opensource-library-collection)
-* [Git](#git)
 * [Markdown](#markdown)
 * [Design](#design)
-* [Design Reference Site](#design-reference-site)
-* [3D Resource](#3d-resource)
+* [Online Playground](#online-playground)
 * [Prototyping Tool](#prototyping-tool)
 * [Learning](#learning)
 * [Platform / Open API](#platforms--open-api)
@@ -35,6 +34,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Analytics](#analytics)
 * [AD](#ad)
 * [CI](#ci)
+* [Converter](#converter)
 * [Tool](#tool)
 * [Algorithm](#algorithm)
 * [Recruit](#recruit)
@@ -135,12 +135,12 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Swift Korea Meetup](https://swiftkorea.github.io/meetup) - Swift Korea Facebook Group을 기반으로 운영되는 컨퍼런스 (비정기)
 
 **Overseas**
-* [AltConf](http://altconf.com)
-* [try! Swift](https://www.tryswift.co)
-* [RWDevCon](https://www.rwdevcon.com)
-* [360iDev](http://360idev.com)
-* [Pragma Conference](http://www.pragmaconference.com)
-* [Swiftconf](https://swiftconf.com)
+* [AltConf](http://altconf.com) - WWDC 에 참석 못 한 사람들을 위해 WWDC 가 열리는 San Jose 시내에서 동일한 일정으로 열리는 컨퍼런스. 티켓 무료
+* [try! Swift](https://www.tryswift.co) - 미국(뉴욕), 일본(도쿄), 인도(방갈로) 등 여러 나라에서 개최되고 있는 컨퍼런스 (3일간 진행)
+* [RWDevCon](https://www.rwdevcon.com) - Ray Wenderich가 운영하는 DevCon. 단순히 발표를 듣기보다 함께 따라치면서 배우는 튜토리얼 컨퍼런스 (3일간 진행)
+* [360iDev](http://360idev.com) - 미국 덴버에서 열리는 대규모 컨퍼런스, RawyWenderich 와 파트너 관계 (4일간 진행)
+* [Pragma Conference](http://www.pragmaconference.com) - 이탈리안 애플 개발자 컨퍼런스(3일간 진행)
+* [Swift Conf](https://swiftconf.com) - 유럽에서 열리는 국제 컨퍼런스로 2012년부터 시작되어 가장 오래 열린 컨퍼런스 중 하나 (2일간 진행)
 
 <br>
 
@@ -386,6 +386,15 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 <br>
 
+## Online Playground
+
+*간단한 Swift 코드를 실행시켜 볼 수 있는 온라인 Playground*
+
+* [Online Swift Playground](http://online.swiftplayground.run)
+* [Swift Online](https://paiza.io/en/languages/swift)
+
+<br>
+
 ## Prototyping Tool
 
 *빠른 프로토타입 개발 및 기획자/디자이너와의 협업을 위한 툴*
@@ -507,6 +516,14 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Travis CI](https://travis-ci.org) - 가장 대표적인 CI 서비스 중 하나로 호스트형 서비스. 오픈소스에 적용 시 무료.
 * [Circle CI](https://circleci.com) - Travis 와 같은 호스트형 서비스. 매달 빌드 소요시간 1,500분까지 무료
 * [Jenkins](https://jenkins.io) - Java로 개발된 오픈소스 툴로써 대표적인 설치형 서비스. 무료이나 직접 빌드 서버 설정 필요
+
+<br>
+
+## Converter
+
+*Swift와 다른 프로그래밍 언어간 변환 지원*
+
+* [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) - Swift 코드를 Kotlin 으로 변환
 
 <br>
 
