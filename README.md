@@ -140,6 +140,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [RWDevCon](https://www.rwdevcon.com)
 * [360iDev](http://360idev.com)
 * [Pragma Conference](http://www.pragmaconference.com)
+* [Swiftconf](https://swiftconf.com)
 
 <br>
 
@@ -160,11 +161,13 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 *iOS / Swift 에 대한 주간 이슈/정보 메일링 사이트*
 
+* [Swift Public Mailing List](https://lists.swift.org/mailman/listinfo)
 * [iOS Goodies](http://ios-goodies.com)
 * [iOS Dev Weekly](https://iosdevweekly.com)
 * [Swiftweekly](http://swiftweekly.com) 
 * [This week in Swift](https://swiftnews.curated.co)
-* [Swift Public Mailing List](https://lists.swift.org/mailman/listinfo)
+* [AppCoda Weekly](http://digest.appcoda.com)
+* [indie iOS Weekly](https://indieiosfocus.com)
 
 <br>
 
@@ -446,6 +449,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Twitter Developers](https://developer.twitter.com)
 * [AWS Mobile](https://aws.amazon.com/ko/mobile/)
 * [Instagram API](https://www.instagram.com/developer/)
+* [API Directory](https://www.programmableweb.com/apis/directory)
 
 <br>
 
