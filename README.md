@@ -3,7 +3,7 @@
 ## About
 iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 카테고리별로 정리한 링크 목록입니다. 특히 iOS 개발을 처음 시작하는 사람이 정보 부족으로 힘들어하지 않고 조금이라도 쉽게 접근하는데 도움이 됐으면 합니다.
 
-꾸준히 업데이트 할 예정이고, 링크가 깨지거나 다른 문제가 있을 경우 알려주세요. 그리고 추천할 만한 링크는 같이 공유 해주시면 좋겠습니다.
+링크가 깨지거나 다른 문제가 있을 경우 알려주세요. 그리고 추천할 만한 링크는 같이 공유 해주시면 좋겠습니다.
 
 
 ## Content
@@ -22,7 +22,8 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Image](#image)
 * [Git](#git)
 * [Dependency Manager](#dependency-manager)
-* [OpenSource Library Collection](#opensource-library-collection)
+* [Collections](#collections)
+* [Patterns](#patterns)
 * [Markdown](#markdown)
 * [Design](#design)
 * [Online Playground](#online-playground)
@@ -38,6 +39,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Tool](#tool)
 * [Algorithm](#algorithm)
 * [Recruit](#recruit)
+* [Developer Survey](#developer-survey)
 * [etc](#etc)
 
 ---
@@ -87,7 +89,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 * [API Design Guidelines](https://swift.org/documentation/api-design-guidelines)
 * [Raywenderich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
-* [SwiftLint](https://github.com/realm/SwiftLint) -  스위프트 코딩 스타일 및 컨벤션 강제를 위한 라이브러리
+* [SwiftLint](https://github.com/realm/SwiftLint) -  스위프트 코딩 컨벤션을 강제하여 올바른 스타일을 따를 수 있도록 돕는 라이브러리
 
 <br>
 
@@ -135,12 +137,14 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Swift Korea Meetup](https://swiftkorea.github.io/meetup) - Swift Korea Facebook Group을 기반으로 운영되는 컨퍼런스 (비정기)
 
 **Overseas**
+* [CocoaConferences](https://github.com/Lascorbe/CocoaConferences) - iOS 컨퍼런스 목록
 * [AltConf](http://altconf.com) - WWDC 에 참석 못 한 사람들을 위해 WWDC 가 열리는 San Jose 시내에서 동일한 일정으로 열리는 컨퍼런스. 티켓 무료
 * [try! Swift](https://www.tryswift.co) - 미국(뉴욕), 일본(도쿄), 인도(방갈로) 등 여러 나라에서 개최되고 있는 컨퍼런스 (3일간 진행)
 * [RWDevCon](https://www.rwdevcon.com) - Ray Wenderich가 운영하는 DevCon. 단순히 발표를 듣기보다 함께 따라치면서 배우는 튜토리얼 컨퍼런스 (3일간 진행)
 * [360iDev](http://360idev.com) - 미국 덴버에서 열리는 대규모 컨퍼런스, RawyWenderich 와 파트너 관계 (4일간 진행)
 * [Pragma Conference](http://www.pragmaconference.com) - 이탈리안 애플 개발자 컨퍼런스(3일간 진행)
 * [Swift Conf](https://swiftconf.com) - 유럽에서 열리는 국제 컨퍼런스로 2012년부터 시작되어 가장 오래 열린 컨퍼런스 중 하나 (2일간 진행)
+
 
 <br>
 
@@ -153,7 +157,8 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [NSHipster](http://nshipster.com)
 * [Envato Tuts+](https://code.tutsplus.com/categories/ios-sdk)
 * [Big Nerd Ranch](https://www.bignerdranch.com/blog/categories/ios)
-* [Natasha The Robot](https://www.natashatherobot.com)
+* [Flawless App Stories](https://medium.com/flawless-app-stories)
+
 
 <br>
 
@@ -288,15 +293,22 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Github](https://github.com)
 * [Bitbucket](https://bitbucket.org)
 
-**Git GUI Tool**
-* [Sourcetree](https://www.sourcetreeapp.com)
-* [GitKraken](https://www.gitkraken.com)
-
 **Tutorial / Guide**
 * [Resources to learn Git](https://try.github.io)
 * [Git-Turorial](https://backlog.com/git-tutorial/kr)
+* [Learn Git](https://www.atlassian.com/git/tutorials/what-is-version-control)
 * [git - 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
-* [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-ko.html)
+* [Git Cheatsheet](https://github.com/arslanbilal/git-cheat-sheet)
+
+**Git Flow**
+* [git-flow](https://github.com/nvie/gitflow) - 원활한 브랜치 운영 관리를 위해 사용하는 Git 확장 명령어 모음
+* [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
+
+**Tool**
+* [Sourcetree](https://www.sourcetreeapp.com) - GUI Tool
+* [GitKraken](https://www.gitkraken.com) - GUI Tool
+* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - 터미널에서 git diff 명령의 결과를 보기 쉽도록 변환해주는 스크립트
+
 
 <br>
 
@@ -310,10 +322,11 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 <br>
 
-## OpenSource Library Collection
+## Collections
 
-*오픈소스 라이브러리 및 앱 컬렉션의 컬렉션*
+*유용한 컬렉션들에 대한 컬렉션*
 
+**iOS Library**
 * [Awesome-iOS](https://github.com/vsouza/awesome-ios)
 * [Awesome-Swift](https://github.com/matteocrippa/awesome-swift)
 * [Awesome-Swift](https://github.com/Wolg/awesome-swift)
@@ -322,12 +335,30 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 **UI**
 * [Awesome-iOS-UI](https://github.com/cjwirth/awesome-ios-ui)
+* [Awesome iOS Chart](https://github.com/ameizi/awesome-ios-chart)
 * [Fantastic-iOS-Animation](https://github.com/onmyway133/fantastic-ios-animation)
 * [Swift UI Libraries](https://goo.gl/WdvyLk)
 * [Cocoa Controls](https://www.cocoacontrols.com)
 
 **App**
 * [Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+
+**Others**
+* [Awesome ARKit](https://github.com/olucurious/Awesome-ARKit)
+* [Awesome CoreML Models](https://github.com/likedan/Awesome-CoreML-Models)
+
+<br>
+
+## Patterns
+
+*아키텍처 패턴 / 디자인 패턴*
+
+**Architecture Pattern**
+* [Fantastic iOS Architecture](https://github.com/onmyway133/fantastic-ios-architecture)
+
+
+**Design Pattern**
+* [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 
 <br>
 
@@ -363,6 +394,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 **Resource**
 * [Apple Design Resources](https://developer.apple.com/design/resources/#ios-apps)
+* [30+ great UI Kits](https://medium.com/flawless-app-stories/30-great-ui-kits-for-ios-engineers-41b2732896b9)
 * [Sketch App Resources](https://www.sketchappsources.com/tag/ios.html)
 * [Sketch REPO](https://sketchrepo.com)
 
@@ -466,7 +498,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 *모바일 데이터 관리를 위한 DBMS*
 
-* [FMDB](https://github.com/ccgus/fmdb) - SQLite Wrapper Library
+* [FMDB](https://github.com/ccgus/fmdb) - SQLite Wrapper
 * [SQLite](https://github.com/stephencelis/SQLite.swift) - SQLite Wrapper
 * [Realm](https://realm.io) - (뤰/렘 o, 렐름 x) 신흥 모바일 DBMS
 * [Realm Studio](https://docs.realm.io/platform/realm-studio) - Realm Database, Realm Platform 관리 도구 (기존 Realm Browser 에서 대체) 
@@ -523,14 +555,14 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 *Swift와 다른 프로그래밍 언어간 변환 지원*
 
-* [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) - Swift 코드를 Kotlin 으로 변환
 * [Swiftify](https://objectivec2swift.com) - Objective-C 코드를 Swift 으로 변환
+* [SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin) - Swift 코드를 Kotlin 으로 변환
 
 <br>
 
 ## Tool
 
-*iOS 개발에 유용한 도구 모음*
+*개발에 유용한 도구 모음*
 
 * [Alfred](https://www.alfredapp.com) - 맥 사용자 생산성 향상에 필요한 필수 앱
 * [iTerm](https://www.iterm2.com) - 기본 터미널 기능을 강화한 macOS용 터미널 프로그램
@@ -542,9 +574,10 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Visual Studio Code](https://code.visualstudio.com) - 추천 텍스트 에디터
 
 **Paid**
-* [BetterTouchTool](https://folivora.ai) - 유저 입력 이벤트 커스터마이징 기능 제공
+* [BetterTouchTool](https://folivora.ai) - 유저 입력 이벤트 커스터마이징 기능을 제공하는 맥용 앱
 * [AppCode](https://www.jetbrains.com/objc/) - JetBrains 에서 개발한 iOS/macOS 개발용 IDE
 * [REVEAL](https://revealapp.com) - 런타임 뷰 디버깅
+* [Flawless](https://flawlessapp.io) - 시뮬레이터 플러그인을 통한 이미지 비교 / UI 이슈 체크
 
 <br>
 
@@ -579,6 +612,16 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 **Info**
 * [주니어 채용 스케쥴 정보](https://github.com/jojoldu/junior-recruit-scheduler)
+* [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+<br>
+
+## Developer Survey
+
+*개발자에 관련된 설문 통계*
+
+* [Developer Survey Results](https://insights.stackoverflow.com/survey/2018)
+* [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
 
 <br>
 
@@ -586,4 +629,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 *차후 적절한 카테고리로 묶여 이동될 수 있는 링크*
 
+* [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - iOS 개발자를 위한 로드맵
 * [Writing Exercises](http://writingexercises.co.uk/index.php) - 각종 랜덤 데이터 (단어, 문장, 이미지 등 ) 추출
+* [Swift Tips](https://github.com/JohnSundell/SwiftTips) - Swift 개발에 유용한 팁 모음
+* [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - 엔지니어를 위한 마케팅 조언
