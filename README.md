@@ -601,6 +601,17 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 <br>
 
+## Regular Expression
+
+*정규표현식 학습 사이트*
+
+* [RegExr](https://regexr.com) - 정규표현식 학습 및 테스트 사이트
+* [RegexOne](https://regexone.com) - 레슨 형식으로 정규표현식 학습 가능
+* [REGEXPER](https://regexper.com) - 입력한 정규표현식을 다이어그램 형태로 표현
+* [DebuggexBeta](https://www.debuggex.com/cheatsheet/regex/python) - 정규표현식 치트 시트
+
+<br>
+
 ## Recruit
 
 *구인구직 사이트 및 참고 자료 모음*
