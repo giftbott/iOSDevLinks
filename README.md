@@ -32,6 +32,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Prototyping Tool](#prototyping-tool)
 * [Learning](#learning)
 * [Platform / Open API](#platforms--open-api)
+* [JSON Parsing Helper](#json-parsing-helper)
 * [Mobile DataBase](#mobile-database)
 * [Automation](#automation)
 * [Analytics](#analytics)
@@ -514,6 +515,16 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [AWS Mobile](https://aws.amazon.com/ko/mobile/)
 * [Instagram API](https://www.instagram.com/developer/)
 * [API Directory](https://www.programmableweb.com/apis/directory)
+
+<br>
+
+## JSON Parsing Helper
+
+*JSON 파싱을 쉽게 하기 위한 보조 도구 모음*
+
+* [quicktype](https://app.quicktype.io) - JSON 형식에 맞게 Codable 코드를 자동 생성해주는 웹서비스
+* [quicktype-xcode](https://github.com/quicktype/quicktype-xcode) - JSON 형식에 맞게 Codable 코드를 자동 생성해주는 Xcode Extension
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - JSON 파싱을 쉽게 할 수 있도록 도와주는 오픈소스 라이브러리
 
 <br>
 
