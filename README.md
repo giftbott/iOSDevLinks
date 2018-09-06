@@ -322,6 +322,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [GitHut](https://githut.info) - GitHub 에서 사용되는 각 프로그래밍 언어별 활성화 지표 시각화
 * [Git Awards](http://git-awards.com) - 도시별, 나라별, 유저별 GitHub 랭킹 검색
 * [Rankedin](http://rankedin.kr) - 한국 개발자들을 대상으로 한 GitHub 랭킹 순위
+* [GitHub Trending](https://github.com/trending) - 오늘의 가장 트렌디한 GitHub 오픈소스 소개 
 
 <br>
 
