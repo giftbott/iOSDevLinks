@@ -643,6 +643,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [RegExr](https://regexr.com) - 정규표현식 학습 및 테스트 사이트
 * [RegexOne](https://regexone.com) - 레슨 형식으로 정규표현식 학습 가능
 * [REGEXPER](https://regexper.com) - 입력한 정규표현식을 다이어그램 형태로 표현
+* [RegExLib](http://regexlib.com/DisplayPatterns.aspx?cattabindex=0&categoryId=1) - 이메일, 주소 등 자주 사용되는 정규표현식에 대해 검색 가능
 * [DebuggexBeta](https://www.debuggex.com/cheatsheet/regex/python) - 정규표현식 치트 시트
 
 <br>
@@ -659,6 +660,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 **Info**
 * [주니어 채용 스케쥴 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [영문 이력서 작성 팁](https://sujinlee.me/entry-level-en-resume)
 
 <br>
 
