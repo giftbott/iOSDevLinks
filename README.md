@@ -698,3 +698,4 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - 엔지니어를 위한 마케팅 조언
 * [Random User Me](https://randomuser.me) - 랜덤 유저 생성 API 제공
 * [Make App Icon](https://makeappicon.com) - 모든 사이즈 앱 아이콘 생성
+* [App Review Times](http://appreviewtimes.com) - 최근 앱 스토어 평균 리뷰 시간 제공
