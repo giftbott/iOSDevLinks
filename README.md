@@ -222,7 +222,10 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [material Design Palette](https://www.materialpalette.com) 
 * [Coolors](https://coolors.co) 
 * [Flat UI Colors](https://flatuicolors.com)
-* [Gradients Collection](https://uigradients.com/) - Gradients 색 조합
+
+**Gradients**
+* [Gradients Collection](https://uigradients.com/)
+* [WebGradients](https://webgradients.com)
 
 <br>
 
