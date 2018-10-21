@@ -532,11 +532,13 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 **Tool**
 * [Postman](https://www.getpostman.com) - API 테스트 지원 도구
 * [Insomnia](https://insomnia.rest) - API 테스트 지원 도구
-* [Apollo GraphQL](https://www.apollographql.com) - GraphQL API 지원 도구
+* [GraphQL Playground](https://github.com/prisma/graphql-playground) - GraphQL IDE
 
 **GraphQL**
-* [GraphQL 공식 페이지](https://graphql.org)
-* [GraphiQL](https://graphql-tryout.herokuapp.com/graphql) - GraphQL API 온라인 테스트
+* [GraphQL](https://graphql.org) - Facebook 공식 페이지
+* [GraphQL](https://www.graphql.com) - Apollo 팀에서 운영하는 GraphQL 홈페이지
+* [Apollo Flatform](https://www.apollographql.com) - Apollo Platform 홈페이지
+* [How to GraphQL](https://www.howtographql.com) - GraphQL Tutorial
 
 <br>
 
