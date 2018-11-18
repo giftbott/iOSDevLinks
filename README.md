@@ -707,3 +707,4 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Make App Icon](https://makeappicon.com) - 모든 사이즈 앱 아이콘 생성
 * [App Review Times](http://appreviewtimes.com) - 최근 앱 스토어 평균 리뷰 시간 제공
 * [Why The Failure, Auto Layout](https://www.wtfautolayout.com) - 오토레이아웃 에러 로그 관련 사항을 시각화
+* [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com) - Privacy Policy, Terms & Conditions 생성
