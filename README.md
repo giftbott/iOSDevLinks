@@ -139,7 +139,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 *국내외 컨퍼런스 링크 모음*
 
 * [LetSwift](http://letswift.kr) - 현재 국내 최대 규모 iOS 컨퍼런스 (1년 단위)
-* [let us: Go!](https://iosdevkor.github.io/let_us_go_2018_spring_review) - iOS 오픈 채팅방이 주축이 되어 현재 가장 활발하게 운영 중인 컨퍼런스 (분기 단위)
+* [let us: Go!](https://github.com/iOSDevKor?tab=repositories) - iOS 오픈 채팅방이 주축이 되어 현재 가장 활발하게 운영 중인 컨퍼런스 (분기 단위)
 * [Swift Korea Meetup](https://swiftkorea.github.io/meetup) - Swift Korea Facebook Group을 기반으로 운영되는 컨퍼런스 (비정기)
 
 **Overseas**
