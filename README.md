@@ -290,6 +290,9 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [lifeofpix](https://www.lifeofpix.com)
 * [foodiesfeed](https://www.foodiesfeed.com)
 
+**App Icon**
+* [Make App Icon](https://makeappicon.com) - 모든 사이즈의 앱 아이콘 생성
+
 <br>
 
 ## Git
@@ -367,6 +370,8 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 **Others**
 * [Awesome ARKit](https://github.com/olucurious/Awesome-ARKit)
 * [Awesome CoreML Models](https://github.com/likedan/Awesome-CoreML-Models)
+* [Swift Tips](https://github.com/JohnSundell/SwiftTips) - Swift 개발에 유용한 팁 모음
+* [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - 엔지니어를 위한 마케팅 조언
 
 <br>
 
@@ -702,10 +707,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - iOS 개발자를 위한 로드맵
 * [Writing Exercises](http://writingexercises.co.uk/index.php) - 각종 랜덤 데이터 (단어, 문장, 이미지 등 ) 추출
-* [Swift Tips](https://github.com/JohnSundell/SwiftTips) - Swift 개발에 유용한 팁 모음
-* [Marketing for Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers) - 엔지니어를 위한 마케팅 조언
 * [Random User Me](https://randomuser.me) - 랜덤 유저 생성 API 제공
-* [Make App Icon](https://makeappicon.com) - 모든 사이즈 앱 아이콘 생성
 * [App Review Times](http://appreviewtimes.com) - 최근 앱 스토어 평균 리뷰 시간 제공
 * [Why The Failure, Auto Layout](https://www.wtfautolayout.com) - 오토레이아웃 에러 로그 관련 사항을 시각화
 * [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com) - Privacy Policy, Terms & Conditions 생성
