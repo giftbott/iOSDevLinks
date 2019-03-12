@@ -57,6 +57,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 * [Swift Language](https://swift.org)
 * [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
+* [Swift Language Guide 번역본](https://jusung.gitbook.io/the-swift-language-guide/)
 * [Swift GitHub](https://github.com/apple/swift)
 * [Swift Evolution](https://github.com/apple/swift-evolution) - Changes and user-visible enhancements to the Swift Programming Language
 * [SwiftDoc](https://swiftdoc.org) - Auto-generated documentation for Swift
