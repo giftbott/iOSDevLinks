@@ -699,8 +699,9 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 *개발자에 관련된 설문 통계*
 
-* [Developer Survey Results](https://insights.stackoverflow.com/survey/2018)
-* [2018 Developer Skills Report](https://research.hackerrank.com/developer-skills/2018)
+* [Stackoverflow - 2019 Developer Survey Results](https://insights.stackoverflow.com/survey/2019)
+* [Hackerrank - 2019 Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
+* [Programmers - 2019 Programmers Report](https://programmers.co.kr/pages/dev-survey-2019)
 
 <br>
 
