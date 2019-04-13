@@ -630,12 +630,14 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 *개발에 유용한 도구 모음*
 
 * [Alfred](https://www.alfredapp.com) - 맥 사용자 생산성 향상에 필요한 필수 앱
-* [iTerm](https://www.iterm2.com) - 기본 터미널 기능을 강화한 macOS용 터미널 프로그램
-* [Oh My Zsh](https://ohmyz.sh) - Z Shell 설정 관리 프레임워크
-* [Sip](https://sipapp.io) - Color 관리 도구. Color Picker 기능 무료
 * [Pusher](https://github.com/noodlewerk/NWPusher) - APNS 테스트 도구
 * [BuildTimeAnalyzer for Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - Xcode 빌드타임 분석
-* [Visual Studio Code](https://code.visualstudio.com) - 추천 텍스트 에디터
+* [Visual Studio Code](https://code.visualstudio.com) - 텍스트 에디터
+
+**Terminal**
+* [iTerm](https://www.iterm2.com) - 기본 터미널 기능을 강화한 macOS용 터미널 프로그램
+* [Oh My Zsh](https://ohmyz.sh) - Z Shell 설정 관리 프레임워크
+* [Powerlevel9k](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config) - Powerline Fonts를 사용하는 Z Shell용 Theme
 
 **Paid**
 * [BetterTouchTool](https://folivora.ai) - 유저 입력 이벤트 커스터마이징 기능을 제공하는 맥용 앱
