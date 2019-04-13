@@ -687,6 +687,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Wanted](https://www.wanted.co.kr)
 * [Jobplanet](https://www.jobplanet.co.kr)
 * [RocketPunch](https://www.rocketpunch.com)
+* [Kredit Job](https://kreditjob.com)
 
 **Info**
 * [주니어 채용 스케쥴 정보](https://github.com/jojoldu/junior-recruit-scheduler)
