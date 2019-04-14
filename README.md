@@ -656,12 +656,13 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [알고스팟](https://algospot.com)
 * [프로젝트 오일러](http://euler.synap.co.kr)
 * [프로그래머스](https://programmers.co.kr/learn/challenges)
-* [한국정보올림피아드](https://www.digitalculture.or.kr/koi/selectOlymPiadDissentList.do)
+* [한국정보올림피아드](http://www.digitalculture.or.kr/koi/selectOlymPiadDissentList.do)
 
 **Overseas**
 * [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
-* [Codility](https://codility.com)
-* [Hacker Rank](https://www.hackerrank.com)
+* [LeetCode](https://leetcode.com/problemset)
+* [Codility](https://app.codility.com/programmers/lessons)
+* [Hacker Rank](https://www.hackerrank.com/dashboard)
 * [Project Euler](https://projecteuler.net)
 * [Codechef](https://www.codechef.com)
 
