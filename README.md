@@ -686,9 +686,10 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 *구인구직 사이트 및 참고 자료 모음*
 
 **Site**
-* [Wanted](https://www.wanted.co.kr)
-* [Jobplanet](https://www.jobplanet.co.kr)
-* [RocketPunch](https://www.rocketpunch.com)
+* [Wanted](https://www.wanted.co.kr/wdlist/518/678)
+* [Jobplanet](https://www.jobplanet.co.kr/job_postings/search?query=iOS)
+* [RocketPunch](https://www.rocketpunch.com/jobs?job=sw-developer&specialty=iOS)
+* [OKKY](https://okky.kr/articles/jobs?query=ios&sort=id)
 * [Kredit Job](https://kreditjob.com)
 
 **Info**
