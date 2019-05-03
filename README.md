@@ -720,3 +720,4 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Why The Failure, Auto Layout](https://www.wtfautolayout.com) - 오토레이아웃 에러 로그 관련 사항을 시각화
 * [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com) - Privacy Policy, Terms & Conditions 생성
 * [swift-scripts](https://github.com/PaulTaykalo/swift-scripts) - 미사용 Swift code, file, function 탐색
+* [DeallocationChecker](https://github.com/fastred/DeallocationChecker) - 메모리 릭이 발생하는 뷰컨트롤러 캐치
