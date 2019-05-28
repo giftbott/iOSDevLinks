@@ -292,7 +292,8 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [foodiesfeed](https://www.foodiesfeed.com)
 
 **App Icon**
-* [Make App Icon](https://makeappicon.com) - 모든 사이즈의 앱 아이콘 생성
+* [Make App Icon](https://makeappicon.com) - 앱 아이콘 셋 생성
+* [App Icon Generator](https://appicon.co) - 앱 아이콘 및 이미지셋 생성
 
 **Animations**
 * [LottieFiles](https://lottiefiles.com) - Lottie 애니메이션 리소스 모음
