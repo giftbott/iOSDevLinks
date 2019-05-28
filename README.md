@@ -44,7 +44,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Algorithm](#algorithm)
 * [Regular Expression](#regular-expression)
 * [Recruit](#recruit)
-* [Developer Survey](#developer-survey)
+* [Report](#report)
 * [etc](#etc)
 
 ---
@@ -704,13 +704,19 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 <br>
 
-## Developer Survey
+## Report
 
-*개발자에 관련된 설문 통계*
+*개발자, 프로그래밍 언어와 관련된 설문조사 & 통계 보고서*
 
+**Survey**
 * [Stackoverflow - 2019 Developer Survey Results](https://insights.stackoverflow.com/survey/2019)
 * [Hackerrank - 2019 Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
 * [Programmers - 2019 Programmers Report](https://programmers.co.kr/pages/dev-survey-2019)
+
+**Ranking**
+* [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
+* [RedMonk Programming Language Rankings: 2019](https://redmonk.com/sogrady/2019/03/20/language-rankings-1-19/)
+* [Worst Programming Languages to Learn in 2019](https://www.codementor.io/blog/worst-languages-2019-6mvbfg3w9x)
 
 <br>
 
