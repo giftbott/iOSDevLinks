@@ -227,11 +227,15 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 *앱 컬러 스킴 참고 사이트*
 
-* [iOS System Color Scheme](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color) 
-* [Material Design Color](https://material.io/color) 
+* [iOS Visual Design Color](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color) 
+* [Material Design Color](https://material.io/design/color/)
 * [material Design Palette](https://www.materialpalette.com) 
+* [Adobe Color](https://color.adobe.com/ko/create)
 * [Coolors](https://coolors.co) 
+* [colllor](http://colllor.com)
+* [paletton](http://paletton.com)
 * [Flat UI Colors](https://flatuicolors.com)
+* [Design Seeds](https://www.design-seeds.com/by-color/)
 
 **Gradients**
 * [Gradients Collection](https://uigradients.com/)
