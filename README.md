@@ -543,7 +543,19 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Twitter Developers](https://developer.twitter.com)
 * [AWS Mobile](https://aws.amazon.com/ko/mobile/)
 * [Instagram API](https://www.instagram.com/developer/)
-* [API Directory](https://www.programmableweb.com/apis/directory)
+* [News API](https://newsapi.org)
+* [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
+
+<br>
+
+## Mock API
+
+* [The Star Wars API](https://swapi.co/)
+* [UINames](https://uinames.com/)
+* [Random User Generator](https://randomuser.me/)
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com)
+* [Open Notify](http://open-notify.org/Open-Notify-API/)
+* [Chicken Facts](https://chickenfacts.io)
 
 <br>
 
@@ -736,7 +748,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - iOS 개발자를 위한 로드맵
 * [Writing Exercises](http://writingexercises.co.uk/index.php) - 각종 랜덤 데이터 (단어, 문장, 이미지 등 ) 추출
-* [Random User Me](https://randomuser.me) - 랜덤 유저 생성 API 제공
 * [Why The Failure, Auto Layout](https://www.wtfautolayout.com) - 오토레이아웃 에러 로그 관련 사항을 시각화
 * [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com) - Privacy Policy, Terms & Conditions 생성
 * [swift-scripts](https://github.com/PaulTaykalo/swift-scripts) - 미사용 Swift code, file, function 탐색
