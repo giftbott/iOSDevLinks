@@ -65,7 +65,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 #### SwiftUI & Combine
 
 * [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials)
-* [SwiftUI UsageGuide](https://jinxiansen.github.io/SwiftUI/)
 * [About SwiftUI](https://github.com/Juanpe/About-SwiftUI)
 * [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
 * [RxSwift to Combine Cheatsheet](https://github.com/freak4pc/rxswift-to-combine-cheatsheet)
@@ -112,7 +111,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 *애플 프로그래밍 가이드 문서*
 
-* [App Programming Guide for iOS](https://goo.gl/mu57YK)
 * [ViewController Programming Guide for iOS](https://goo.gl/pLv5rF) 
 * [View Programming Guide for iOS](https://goo.gl/cc9bx1) 
 * [Auto Layout Guide](https://goo.gl/jPnmcX) 
@@ -202,7 +200,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [iOS Device Specs Grid](http://blakespot.com/ios_device_specifications_grid.html)
 * [List of iOS Devices](https://en.wikipedia.org/wiki/List_of_iOS_devices)
 * [iPhone Resolutions](https://goo.gl/vwbzQY) 
-* [iPhone 6 Screens Demystified](https://goo.gl/nNXDWL)
 * [iPhone X Screen Demystified](https://goo.gl/rxLKtX)
 
 <br>
@@ -740,7 +737,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [iOS Developer Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - iOS 개발자를 위한 로드맵
 * [Writing Exercises](http://writingexercises.co.uk/index.php) - 각종 랜덤 데이터 (단어, 문장, 이미지 등 ) 추출
 * [Random User Me](https://randomuser.me) - 랜덤 유저 생성 API 제공
-* [App Review Times](http://appreviewtimes.com) - 최근 앱 스토어 평균 리뷰 시간 제공
 * [Why The Failure, Auto Layout](https://www.wtfautolayout.com) - 오토레이아웃 에러 로그 관련 사항을 시각화
 * [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com) - Privacy Policy, Terms & Conditions 생성
 * [swift-scripts](https://github.com/PaulTaykalo/swift-scripts) - 미사용 Swift code, file, function 탐색
