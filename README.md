@@ -194,7 +194,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 *iPhone, iPad 등 각 기기에 대한 명세서 링크* 
 
-* [Support Matrix](http://iossupportmatrix.com)
 * [iOS Device Types](https://support.hockeyapp.net/kb/client-integration-ios-mac-os-x-tvos/ios-device-types)
 * [iPhone Specs](https://support.apple.com/ko_KR/specs/iphone)
 * [iOS Device Compatibility Reference](https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html)
