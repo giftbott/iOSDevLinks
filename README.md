@@ -134,7 +134,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 * [카카오톡 iOS 오픈 채팅방](https://open.kakao.com/o/gyLape)
 * [Slack - Swift (Korea)](https://swiftkorea.slack.com)
-* [Slack - Swift (Global)](https://swift-lang.slack.com)
+* [Slack - iOS Developers (Global)](https://ios-developers.slack.com)
 * [Swift Korea Facebook Group](https://www.facebook.com/groups/swiftkor)
 * [아이폰 데브](http://iphonedev.co.kr)
 * [맥부기 (카페)](https://cafe.naver.com/mcbugi)
@@ -194,7 +194,6 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 *iPhone, iPad 등 각 기기에 대한 명세서 링크* 
 
-* [iOS Device Types](https://support.hockeyapp.net/kb/client-integration-ios-mac-os-x-tvos/ios-device-types)
 * [iPhone Specs](https://support.apple.com/ko_KR/specs/iphone)
 * [iOS Device Compatibility Reference](https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html)
 * [iOS Device Specs Grid](http://blakespot.com/ios_device_specifications_grid.html)
@@ -716,6 +715,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Wanted](https://www.wanted.co.kr/wdlist/518/678)
 * [Jobplanet](https://www.jobplanet.co.kr/job_postings/search?query=iOS)
 * [RocketPunch](https://www.rocketpunch.com/jobs?job=sw-developer&specialty=iOS)
+* [Programmers](https://programmers.co.kr/job)
 * [OKKY](https://okky.kr/articles/jobs?query=ios&sort=id)
 * [Kredit Job](https://kreditjob.com)
 
@@ -732,13 +732,13 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 
 **Survey**
 * [Stackoverflow - 2019 Developer Survey Results](https://insights.stackoverflow.com/survey/2019)
-* [Hackerrank - 2019 Developer Skills Report](https://research.hackerrank.com/developer-skills/2019)
-* [Programmers - 2019 Programmers Report](https://programmers.co.kr/pages/dev-survey-2019)
+* [Hackerrank - 2020 Developer Skills Report](https://research.hackerrank.com/developer-skills/2020)
+* [Programmers - 2020 Programmers Report](https://programmers.co.kr/pages/dev-survey-2020)
 
 **Ranking**
+
 * [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
-* [RedMonk Programming Language Rankings: 2019](https://redmonk.com/sogrady/2019/03/20/language-rankings-1-19/)
-* [Worst Programming Languages to Learn in 2019](https://www.codementor.io/blog/worst-languages-2019-6mvbfg3w9x)
+* [RedMonk Programming Language Rankings: 2020](https://redmonk.com/sogrady/2020/02/28/language-rankings-1-20/)
 
 <br>
 
