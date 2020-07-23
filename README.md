@@ -104,6 +104,9 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [API Design Guidelines](https://swift.org/documentation/api-design-guidelines)
 * [Raywenderich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
 * [Google Swift Style Guide](https://google.github.io/swift)
+* [Airbnb Swift Style Guide](https://github.com/airbnb/swift)
+* [LinkedIn Swift Style Guide](https://github.com/linkedin/swift-style-guide)
+* [Styleshare Swift Style Guide](https://github.com/StyleShare/swift-style-guide)
 * [SwiftLint](https://github.com/realm/SwiftLint) -  스위프트 코딩 컨벤션을 강제하여 올바른 스타일을 따를 수 있도록 돕는 라이브러리
 
 <br>
