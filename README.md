@@ -733,7 +733,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 *개발자, 프로그래밍 언어와 관련된 설문조사 & 통계 보고서*
 
 **Survey**
-* [Stackoverflow - 2019 Developer Survey Results](https://insights.stackoverflow.com/survey/2019)
+* [Stackoverflow - 2020 Developer Survey Results](https://insights.stackoverflow.com/survey/2020)
 * [Hackerrank - 2020 Developer Skills Report](https://research.hackerrank.com/developer-skills/2020)
 * [Programmers - 2020 Programmers Report](https://programmers.co.kr/pages/dev-survey-2020)
 
