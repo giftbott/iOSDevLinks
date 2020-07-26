@@ -174,7 +174,8 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [NSHipster](http://nshipster.com)
 * [Envato Tuts+](https://code.tutsplus.com/categories/ios-sdk)
 * [Flawless App Stories](https://medium.com/flawless-app-stories)
-
+* [Swift by Sundell](https://www.swiftbysundell.com)
+* [Swift Senpai](https://swiftsenpai.com)
 
 <br>
 
