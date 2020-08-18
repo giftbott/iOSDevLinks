@@ -464,6 +464,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [3D Warehouse](https://3dwarehouse.sketchup.com)
 * [Turbosquid](https://www.turbosquid.com)
 * [cgtrader](https://www.cgtrader.com)
+* [Hum3D](https://hum3d.com/)
 
 **3D Textures**
 * [3D Textures](https://3dtextures.me)
