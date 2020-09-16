@@ -12,6 +12,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Apple Programming Guide](#apple-programming-guide)
 * [Community](#community)
 * [Conference](#conference)
+* [Conference Video List](#conference-video-list)
 * [Blog](#blog)
 * [Mailing List](#mailing-list)
 * [Device Specification](#device-specification)
@@ -163,6 +164,25 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Pragma Conference](http://www.pragmaconference.com) - 이탈리안 애플 개발자 컨퍼런스(3일간 진행)
 * [Swift Conf](https://swiftconf.com) - 유럽에서 열리는 국제 컨퍼런스로 2012년부터 시작되어 가장 오래 열린 컨퍼런스 중 하나 (2일간 진행)
 
+<br>
+
+## Conference Video List
+
+*유투브 컨퍼런스 영상 재생목록*
+
+* [GOTO Conferences](https://www.youtube.com/c/GotoConferences/featured)
+* [dotSwift](https://www.youtube.com/user/dotconferences/playlists)
+* [try! Swift](https://www.youtube.com/c/trySwiftConference/playlists)
+* [UIKonf](https://www.youtube.com/c/UIKonf/playlists)
+* [Functional Swift](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g/playlists)
+* [AppBuilders](https://www.youtube.com/channel/UC9hu86f3N9wJgLk7l8kxFeA/playlists)
+* [iOS Dev Scout](https://www.youtube.com/channel/UCUwelGOCK00mp8j241tFbeg/playlists)
+* [#pragma mark](https://www.youtube.com/c/PragmaMark/playlists)
+* [AltConf](https://www.youtube.com/channel/UChiwrWoactp8mOs70j53zYw/playlists)
+* [SwiftConf](https://www.youtube.com/channel/UCP_LVkKUucIusib7FFQ4Q1Q/playlists)
+* [Mobiconf](https://www.youtube.com/c/MobiconfProfile/playlists)
+* [CODEMOBILE](https://www.youtube.com/c/CODEMOBILEUK/playlists)
+* [Hacking with Swift Live](https://www.youtube.com/watch?v=y4qFRLp_JNM&list=PLuoeXyslFTuavqQMKWYmrd6L2_goxBXDz)
 
 <br>
 
