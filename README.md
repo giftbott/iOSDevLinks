@@ -279,6 +279,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [wordmark](https://wordmark.it) - 컴퓨터에 설치된 폰트 모두를 한 번에 비교하고 싶을 때
 
 **Tool**
+* [RightFont](https://rightfontapp.com/) - 폰트 관리 도구
 * [FontBase](https://fontba.se) - 폰트 관리 도구
 
 <br>
