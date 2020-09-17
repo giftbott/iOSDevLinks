@@ -691,7 +691,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 **Terminal**
 * [iTerm](https://www.iterm2.com) - 기본 터미널 기능을 강화한 macOS용 터미널 프로그램
 * [Oh My Zsh](https://ohmyz.sh) - Z Shell 설정 관리 프레임워크
-* [Powerlevel9k](https://github.com/bhilburn/powerlevel9k/wiki/Show-Off-Your-Config) - Powerline Fonts를 사용하는 Z Shell용 Theme
+* [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - Powerline Fonts를 사용하는 Z Shell용 Theme
 
 **Paid**
 * [BetterTouchTool](https://folivora.ai) - 유저 입력 이벤트 커스터마이징 기능을 제공하는 맥용 앱
