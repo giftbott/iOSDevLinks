@@ -88,12 +88,13 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [WWDC Videos](https://developer.apple.com/videos/)
 * [ASCIIwwdc](http://asciiwwdc.com)  -  각 WWDC Session에 대한 자막 모음
 
-#### App Store Connect
+#### App Store
 
 * [App Store Connect](https://appstoreconnect.apple.com)
 * [App Store Connect Help](https://help.apple.com/app-store-connect/)
-* [App Store Connect Overview](https://itunespartner.apple.com/en/apps/news)
-* [App Store Connect Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+* [App Store News and Updates](https://itunespartner.apple.com/en/apps/news)
+* [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
+* [iOS and iPadOS Usage](https://developer.apple.com/support/app-store/)
 * [Common App Rejections](https://developer.apple.com/app-store/review/rejections/)
 
 #### Design Guideline
