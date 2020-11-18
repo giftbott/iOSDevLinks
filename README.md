@@ -459,6 +459,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 *개발자에게 부족한 디자인 능력을 메꿔줄 링크 모음*
 
 **Tool**
+* [Figma](https://www.figma.com)
 * [Sketch](https://www.sketchapp.com)
 * [Zeplin](https://zeplin.io)
 
