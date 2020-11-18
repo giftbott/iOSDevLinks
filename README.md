@@ -443,11 +443,14 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 *Markdown 작성을 위한 추천 링크*
 
 * [GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown) - GitHub 마크다운 매뉴얼
-* [DILLINGER](https://dillinger.io) - 온라인 마크다운 에디터
 * [grip](https://github.com/joeyespo/grip) - 오프라인 깃허브 마크다운 프리뷰
 
 **Tool**
-* [Typora](https://typora.io) - 추천 마크다운 에디터
+* [Typora](https://typora.io)
+
+**Online Markdown Editor**
+* [Editor.md](https://pandao.github.io/editor.md)
+* [StackEdit](https://stackedit.io/app)
 
 <br>
 
