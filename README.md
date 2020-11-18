@@ -289,8 +289,8 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 *앱 효과음 / 배경음악에 필요한 사운드 제공 사이트 모음*
 
 **Sound Effect** 
-* [Youtube SoundEffects](https://www.youtube.com/audiolibrary/soundeffects)
-* [Facebook SoundKit](https://facebook.design/soundkit)
+
+* [Facebook SoundKit](https://design.facebook.com/toolsandresources/sound-kit-for-prototypes)
 * [Google Sound Library](https://developers.google.com/actions/tools/sound-library) 
 * [Free sound](https://freesound.org)
 * [SoundBible](http://soundbible.com)
@@ -300,7 +300,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Free SFX](https://www.freesfx.co.uk)
 
 **Music**
-* [Youtube Music](https://www.youtube.com/audiolibrary/music)
+* [Youtube Music](https://www.youtube.com/audiolibrary)
 * [Bensound](https://www.bensound.com/royalty-free-music)
 * [Music for Video](https://music-for-video.com/subscribe-to-our-newsletter-and-get-free-music-tracks)
 * [Incompetech](https://incompetech.com)
