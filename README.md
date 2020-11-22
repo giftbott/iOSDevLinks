@@ -341,6 +341,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [Git 공식 홈페이지](https://git-scm.com)
 * [Pro Git 2nd Edition](https://git-scm.com/book/ko/v2)
 * [git ignore.io](https://www.gitignore.io)
+* [github gitignore](https://github.com/github/gitignore)
 
 **Repository**
 * [Github](https://github.com)
