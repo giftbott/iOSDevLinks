@@ -153,7 +153,7 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 *국내외 컨퍼런스 링크 모음*
 
 * [LetSwift](http://letswift.kr) - 현재 국내 최대 규모 iOS 컨퍼런스 (1년 단위)
-* [let us: Go!](https://github.com/iOSDevKor?tab=repositories) - iOS 오픈 채팅방이 주축이 되어 현재 가장 활발하게 운영 중인 컨퍼런스 (분기 단위)
+* [let us: Go!](https://letusgo.app/) - 카카오톡 오픈 채팅방이 주축이 되어 현재 가장 활발하게 운영 중인 컨퍼런스 (분기 단위)
 * [Swift Korea Meetup](https://swiftkorea.github.io/meetup) - Swift Korea Facebook Group을 기반으로 운영되는 컨퍼런스 (비정기)
 
 **Overseas**
@@ -788,3 +788,4 @@ iOS 개발자들이 알아두면 유용한 사이트와 링크를 모아서 각 
 * [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com) - Privacy Policy, Terms & Conditions 생성
 * [swift-scripts](https://github.com/PaulTaykalo/swift-scripts) - 미사용 Swift code, file, function 탐색
 * [DeallocationChecker](https://github.com/fastred/DeallocationChecker) - 메모리 릭이 발생하는 뷰컨트롤러 캐치
+* [App|Sight](https://www.appsight.io/) - 특정 앱에서 사용 중인 라이브러리 또는 특정 SDK를 사용하는 앱의 목록 제공
