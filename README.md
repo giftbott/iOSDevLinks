@@ -41,7 +41,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Automation](#automation)
 * [Analytics](#analytics)
 * [AD](#ad)
-* [CI](#ci)
+* [CI/CD](#ci/cd)
 * [Converter](#converter)
 * [Tool](#tool)
 * [Algorithm](#algorithm)
@@ -171,6 +171,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Swift Korea Meetup](https://swiftkorea.github.io/meetup) - Swift Korea Facebook Group을 기반으로 운영되는 컨퍼런스 (비정기)
 
 **Overseas**
+
 * [CocoaConferences](https://cocoaconferences.com/) - iOS 컨퍼런스 목록
 * [AltConf](http://altconf.com) - WWDC 에 참석 못 한 사람들을 위해 WWDC 가 열리는 San Jose 시내에서 동일한 일정으로 열리는 컨퍼런스. 티켓 무료
 * [try! Swift](https://www.tryswift.co) - 미국(뉴욕), 일본(도쿄), 인도(방갈로) 등 여러 나라에서 개최되고 있는 컨퍼런스 (3일간 진행)
@@ -252,6 +253,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Feather](https://feathericons.com)
 
 **Paid**
+
 * [PixelLove](https://www.pixellove.com)
 * [Streamline](https://www.streamlineicons.com)
 
@@ -271,6 +273,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Flat UI Colors](https://flatuicolors.com)
 
 **Gradients**
+
 * [Gradients Collection](https://uigradients.com/)
 * [WebGradients](https://webgradients.com)
 
@@ -292,6 +295,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [wordmark](https://wordmark.it) - 컴퓨터에 설치된 폰트 모두를 한 번에 비교하고 싶을 때
 
 **Tool**
+
 * [FontBase](https://fontba.se) - 폰트 관리 도구
 
 <br>
@@ -311,6 +315,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Free SFX](https://www.freesfx.co.uk)
 
 **Music**
+
 * [Youtube Music](https://www.youtube.com/audiolibrary)
 * [Bensound](https://www.bensound.com/royalty-free-music)
 * [Music for Video](https://music-for-video.com/subscribe-to-our-newsletter-and-get-free-music-tracks)
@@ -323,11 +328,13 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 *앱 개발에 필요한 이미지 사이트 모음*
 
 **Placeholder Image** 
+
 * [LoremFlickr](https://loremflickr.com) 
 * [Lorem Picsum](https://picsum.photos) 
 * [dummyImage](https://dummyimage.com)
 
 **High Resolution Photo** 
+
 * [unsplash](https://unsplash.com)
 * [pixabay](https://pixabay.com)
 * [pexels](https://www.pexels.com)
@@ -335,10 +342,12 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [foodiesfeed](https://www.foodiesfeed.com)
 
 **App Icon**
+
 * [Make App Icon](https://makeappicon.com) - 앱 아이콘 셋 생성
 * [App Icon Generator](https://appicon.co) - 앱 아이콘 및 이미지셋 생성
 
 **Animations**
+
 * [LottieFiles](https://lottiefiles.com) - Lottie 애니메이션 리소스 모음
 
 
@@ -358,6 +367,18 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Git Cheatsheet](https://github.com/arslanbilal/git-cheat-sheet)
 * [Git-Turorial](https://backlog.com/git-tutorial/kr)
 
+**Git Flow**
+
+* [git-flow](https://github.com/nvie/gitflow) - 원활한 브랜치 운영 관리를 위해 사용하는 Git 확장 명령어 모음
+* [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
+
+**Tool**
+
+* [Sourcetree](https://www.sourcetreeapp.com)
+* [GitKraken](https://www.gitkraken.com)
+* [GitUp](https://github.com/git-up/GitUp)
+* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - git diff 결과를 더 보기 좋게 시각화해주는 스크립트
+
 **GitHub**
 
 * [Github](https://github.com)
@@ -369,18 +390,6 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 * [Bitbucket](https://bitbucket.org)
 * [Learn Git with Bitbucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
-
-**Git Flow**
-
-* [git-flow](https://github.com/nvie/gitflow) - 원활한 브랜치 운영 관리를 위해 사용하는 Git 확장 명령어 모음
-* [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
-
-**Tool**
-
-* [GitUp](https://github.com/git-up/GitUp)
-* [Sourcetree](https://www.sourcetreeapp.com)
-* [GitKraken](https://www.gitkraken.com)
-* [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - 터미널에서 git diff 명령의 결과를 보기 쉽도록 변환해주는 스크립트
 
 <br>
 
@@ -400,6 +409,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 *유용한 컬렉션들에 대한 컬렉션*
 
 **iOS Library**
+
 * [Awesome-iOS](https://github.com/vsouza/awesome-ios)
 * [Awesome-Swift](https://github.com/matteocrippa/awesome-swift)
 * [Awesome-Swift](https://github.com/Wolg/awesome-swift)
@@ -407,6 +417,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Awesome-iOS](http://awesome-ios.readthedocs.io/en/latest/#awesome-ios)
 
 **UI**
+
 * [Awesome-iOS-UI](https://github.com/cjwirth/awesome-ios-ui)
 * [Awesome iOS Chart](https://github.com/ameizi/awesome-ios-chart)
 * [Fantastic-iOS-Animation](https://github.com/onmyway133/fantastic-ios-animation)
@@ -414,6 +425,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Cocoa Controls](https://www.cocoacontrols.com)
 
 **App**
+
 * [Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
 
 **Others**
@@ -439,10 +451,12 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 *아키텍처 패턴 / 디자인 패턴*
 
 **Architecture Pattern**
+
 * [Fantastic iOS Architecture](https://github.com/onmyway133/fantastic-ios-architecture)
 
 
 **Design Pattern**
+
 * [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 
 <br>
@@ -455,6 +469,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [grip](https://github.com/joeyespo/grip) - 오프라인 깃허브 마크다운 프리뷰
 
 **Tool**
+
 * [Typora](https://typora.io)
 * [OBSIDIAN](https://obsidian.md/)
 
@@ -470,11 +485,13 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 *개발자에게 부족한 디자인 능력을 메꿔줄 링크 모음*
 
 **Tool**
+
 * [Figma](https://www.figma.com)
 * [Sketch](https://www.sketchapp.com)
 * [Zeplin](https://zeplin.io)
 
 **Design Reference Site**
+
 * [Design notes](https://www.designnotes.co)
 * [dribbble](https://dribbble.com/search?q=ios)
 * [Pinterest](https://www.pinterest.co.kr/search/pins/?q=ios)
@@ -485,13 +502,16 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Mobbin](https://mobbin.design)
 
 **Material Design**
+
 * [Material Design](https://material.io)
 * [Material Design Components](https://material.io/components/ios)
 
 **Facebook Design**
+
 * [Facebook Design](https://design.facebook.com/)
 
 **Resource**
+
 * [Apple Design Resources](https://developer.apple.com/design/resources/#ios-apps)
 * [Sketch App Resources](https://www.sketchappsources.com/tag/ios.html)
 * [Sketch REPO](https://sketchrepo.com)
@@ -499,11 +519,11 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [unDraw](https://undraw.co/illustrations)
 
 **3D Assets**
+
 * [Sketchfab](https://sketchfab.com)
 * [3D Warehouse](https://3dwarehouse.sketchup.com)
 * [Turbosquid](https://www.turbosquid.com)
 * [cgtrader](https://www.cgtrader.com)
-* [Hum3D
 
 <br>
 
@@ -546,6 +566,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [K-MOOC](http://www.kmooc.kr)
 
 **강의별 유/무료 동영상 사이트**
+
 * [인프런](https://www.inflearn.com)
 * [edX](https://www.edx.org)
 * [Coursera](https://www.coursera.org)
@@ -553,10 +574,12 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Udemy](https://www.udemy.com)
 
 **Presentation Slide**
+
 * [SlideShare](https://www.slideshare.net)
 * [Speaker Deck](https://speakerdeck.com)
 
 **100 Days 시리즈**
+
 * [100 Days of Swift](https://www.hackingwithswift.com/100)
 * [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 
@@ -575,6 +598,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [서울열린데이터광장](https://data.seoul.go.kr/)
 
 **Overseas**
+
 * [Firebase](https://firebase.google.com)
 * [Facebook for Developers](https://developers.facebook.com)
 * [GitHub Developer](https://developer.github.com)
@@ -660,6 +684,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Yahoo Flurry](https://developer.yahoo.com/analytics/)
 
 **Paid**
+
 * [Adjust](https://www.adjust.com)
 * [Mixpanel](https://mixpanel.com)
 * [Amazon Pinpoint](https://aws.amazon.com/ko/pinpoint)
@@ -712,6 +737,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - Powerline Fonts를 사용하는 Z Shell용 Theme
 
 **Paid**
+
 * [BetterTouchTool](https://folivora.ai) - 유저 입력 이벤트 커스터마이징 기능을 제공하는 맥용 앱
 * [AppCode](https://www.jetbrains.com/objc/) - JetBrains 에서 개발한 iOS/macOS 개발용 IDE
 * [REVEAL](https://revealapp.com) - 런타임 뷰 디버깅
@@ -729,6 +755,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [프로그래머스](https://programmers.co.kr/learn/challenges)
 
 **Overseas**
+
 * [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club)
 * [LeetCode](https://leetcode.com/problemset)
 * [Codility](https://app.codility.com/programmers/lessons)
@@ -756,6 +783,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 *구인구직 사이트 및 참고 자료 모음*
 
 **Site**
+
 * [Wanted](https://www.wanted.co.kr/wdlist/518/678)
 * [Jobplanet](https://www.jobplanet.co.kr/job_postings/search?query=iOS)
 * [RocketPunch](https://www.rocketpunch.com/jobs?job=sw-developer&specialty=iOS)
@@ -764,6 +792,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Kredit Job](https://kreditjob.com)
 
 **Info**
+
 * [주니어 채용 스케쥴 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [영문 이력서 작성 팁](https://sujinlee.me/entry-level-en-resume)
