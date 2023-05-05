@@ -108,7 +108,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 #### WWDC
 
 * [WWDC Videos](https://developer.apple.com/videos/)
-* [WWDC app for maxOS](https://wwdc.io/)
+* [WWDC app for macOS](https://wwdc.io/)
 
 #### Design Guideline
 
