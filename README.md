@@ -806,13 +806,13 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 **Survey**
 
-* [Stackoverflow - 2021 Developer Survey Results](https://insights.stackoverflow.com/survey/2021)
-* [Programmers - 2022 Programmers Dev·Survey](https://programmers.co.kr/pages/2022-dev-survey)
+* [Stackoverflow - 2022 Developer Survey Results](https://survey.stackoverflow.co/2022)
+* [Programmers - 2023 Programmers Dev·Survey](https://programmers.co.kr/pages/2023-dev-survey)
 
 **Ranking**
 
 - [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
-- [RedMonk Programming Language Rankings: 2022](https://redmonk.com/sogrady/2022/03/28/language-rankings-1-22/)
+- [RedMonk Programming Language Rankings: 2023](https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23)
 
 <br>
 
