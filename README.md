@@ -24,7 +24,6 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Sound](#sound)
 * [Image](#image)
 * [Git](#git)
-* [GitHub](#github)
 * [Dependency Manager](#dependency-manager)
 * [Collections](#collections)
 * [Theme](#theme)
@@ -112,13 +111,13 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 #### Design Guideline
 
-* [Human Interface Guideline](https://developer.apple.com/ios/human-interface-guidelines/)
+* [Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines)
 * [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
 
 #### Coding Style Guideline
 
 * [API Design Guidelines](https://swift.org/documentation/api-design-guidelines)
-* [Raywenderich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
+* [Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide)
 * [Google Swift Style Guide](https://google.github.io/swift)
 * [Airbnb Swift Style Guide](https://github.com/airbnb/swift)
 * [LinkedIn Swift Style Guide](https://github.com/linkedin/swift-style-guide)
@@ -217,12 +216,10 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 *iOS / Swift 에 대한 주간 이슈/정보 메일링 사이트*
 
-* [LetSwift Newsletter](https://github.com/letswiftconf/newsletter)
-* [iOS Goodies](http://ios-goodies.com)
+* [LetSwift NewsLetter](https://github.com/letswiftconf/newsletter)
 * [iOS Dev Weekly](https://iosdevweekly.com)
-* [Swiftweekly](http://swiftweekly.com) 
-* [This week in Swift](https://swiftnews.curated.co)
-* [AppCoda Weekly](http://digest.appcoda.com)
+* [Swift Anytime Weekly](https://swiftanytime.curated.co)
+* [Weekly Articles by tanaschita](https://tanaschita.com)
 
 <br>
 
@@ -250,11 +247,6 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [flaticon](https://www.flaticon.com) 
 * [material icons](https://material.io/icons/)
 * [Feather](https://feathericons.com)
-
-**Paid**
-
-* [PixelLove](https://www.pixellove.com)
-* [Streamline](https://www.streamlineicons.com)
 
 <br>
 
@@ -609,7 +601,6 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [AWS Mobile](https://aws.amazon.com/ko/mobile/)
 * [Instagram API](https://www.instagram.com/developer/)
 * [News API](https://newsapi.org)
-* [iTunes Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
 
 <br>
 
@@ -826,4 +817,3 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com) - Privacy Policy, Terms & Conditions 생성
 * [swift-scripts](https://github.com/PaulTaykalo/swift-scripts) - 미사용 Swift code, file, function 탐색
 * [DeallocationChecker](https://github.com/fastred/DeallocationChecker) - 메모리 릭이 발생하는 뷰컨트롤러 캐치
-* [App|Sight](https://www.appsight.io/) - 특정 앱에서 사용 중인 라이브러리 또는 특정 SDK를 사용하는 앱의 목록 제공
