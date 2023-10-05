@@ -204,14 +204,16 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 *iOS 개발 지식을 채워줄 블로그 모음*
 
-* [Ray Wenderich](https://www.raywenderlich.com)
+* [Kodeco](https://www.kodeco.com) - Ray Wenderich
+* [Point-Free](https://www.pointfree.co/blog)
 * [APPCODA](https://www.appcoda.com)
-* [NSHipster](http://nshipster.com)
-* [Envato Tuts+](https://code.tutsplus.com/categories/ios-sdk)
+* [SwiftUI Lab](https://swiftui-lab.com)
 * [Swift by Sundell](https://www.swiftbysundell.com)
-* [iOS Dev Weekly](https://iosdevweekly.com/)
-* [Holy Swift](https://holyswift.app/)
-
+* [Swift Senpai](https://swiftsenpai.com)
+* [SwiftLee](https://www.avanderlee.com)
+* [Swift with Majid](https://swiftwithmajid.com)
+* [Holy Swift](https://holyswift.app)
+* [NSHipster](http://nshipster.com)
 <br>
 
 ## Mailing List
