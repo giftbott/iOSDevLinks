@@ -781,11 +781,13 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 **Site**
 
 * [Wanted](https://www.wanted.co.kr/wdlist/518/678)
+* [Wanted Insight](https://insight.wanted.co.kr)
 * [Jobplanet](https://www.jobplanet.co.kr/job_postings/search?query=iOS)
 * [RocketPunch](https://www.rocketpunch.com/jobs?job=sw-developer&specialty=iOS)
 * [Programmers](https://programmers.co.kr/job)
-* [OKKY](https://okky.kr/articles/jobs?query=ios&sort=id)
-* [Kredit Job](https://kreditjob.com)
+* [Jumpit](https://www.jumpit.co.kr)
+* [OKKY](https://jobs.okky.kr)
+
 
 **Info**
 
