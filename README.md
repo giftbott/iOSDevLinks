@@ -794,8 +794,9 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 **Info**
 
-* [주니어 채용 스케쥴 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 * [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [iOS 인터뷰 질문 목록](https://github.com/JeaSungLEE/iOSInterviewquestions)
+* [주니어 채용 스케쥴 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 * [영문 이력서 작성 팁](https://sujinlee.me/entry-level-en-resume)
 
 <br>
