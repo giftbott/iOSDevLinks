@@ -701,10 +701,13 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 *지속적 통합(Continous Integration), 지속적 배포(Continuous Deployment)를 위한 주요 서비스 모음*
 
-* [Xcode Cloud](https://developer.apple.com/kr/xcode-cloud/) - CI/CD 기능 지원을 위해 Xcode에 내장된 기능
-* [Jenkins](https://jenkins.io) - 설치형 서비스. 오픈소스로 무료이나 직접 빌드 서버 설정 필요
-* [Travis CI](https://travis-ci.org) - 호스트형 서비스. 오픈소스에 적용 시 무료.
-* [Circle CI](https://circleci.com) - 호스트형 서비스. 매달 빌드 소요시간 1,500분까지 무료
+* [Xcode Cloud](https://developer.apple.com/kr/xcode-cloud/) - Xcode 내장 기능
+* [Jenkins](https://jenkins.io)
+* [GitHub Actions](https://github.com/features/actions)
+* [TeamCity](https://www.jetbrains.com/teamcity)
+* [Travis CI](https://travis-ci.org)
+* [Circle CI](https://circleci.com)
+* [Bitrise](https://bitrise.io)
 
 <br>
 
