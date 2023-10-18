@@ -806,7 +806,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 **Survey**
 
-* [Stackoverflow - 2022 Developer Survey Results](https://survey.stackoverflow.co/2022)
+* [Stackoverflow - 2023 Developer Survey Results](https://survey.stackoverflow.co/2023)
 * [Programmers - 2023 Programmers Dev·Survey](https://programmers.co.kr/pages/2023-dev-survey)
 
 **Ranking**
