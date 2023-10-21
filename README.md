@@ -685,7 +685,6 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Adjust](https://www.adjust.com)
 * [Mixpanel](https://mixpanel.com)
 * [Amazon Pinpoint](https://aws.amazon.com/ko/pinpoint)
-* [유저해빗](https://www.userhabit.io/ko)
 
 <br>
 
