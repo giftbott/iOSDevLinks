@@ -469,7 +469,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 **Tool**
 
 * [Typora](https://typora.io)
-* [OBSIDIAN](https://obsidian.md/)
+* [Obsidian](https://obsidian.md/)
 
 **Online Markdown Editor**
 
@@ -727,8 +727,6 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 *개발에 유용한 도구 모음*
 
 * [Alfred](https://www.alfredapp.com) - 생산성 앱
-* [Pusher](https://github.com/noodlewerk/NWPusher) - APNS 테스트 도구
-* [BuildTimeAnalyzer for Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - Xcode 빌드타임 분석
 * [Visual Studio Code](https://code.visualstudio.com) - 코드/텍스트 에디터
 
 **Terminal**
@@ -736,6 +734,13 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [iTerm](https://www.iterm2.com) - 기본 터미널 기능을 강화한 macOS용 터미널 프로그램
 * [Oh My Zsh](https://ohmyz.sh) - Z Shell 설정 관리 프레임워크
 * [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - Powerline Fonts를 사용하는 Z Shell용 Theme
+
+**iOS**
+
+* [InjectionIII](https://github.com/johnno1962/InjectionIII) - 핫 리로딩 지원
+* [RocketSim](https://www.rocketsim.app) - Xcode Simulator 보조 툴
+* [Pusher](https://github.com/noodlewerk/NWPusher) - APNS 테스트 도구
+* [BuildTimeAnalyzer for Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - Xcode 빌드타임 분석
 
 **Paid**
 
