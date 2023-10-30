@@ -655,13 +655,14 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 <br>
 
-## Mobile DataBase
+## Mobile Database
 
 *모바일 데이터 관리를 위한 DBMS*
 
-* [FMDB](https://github.com/ccgus/fmdb) - SQLite Wrapper
-* [SQLite](https://github.com/stephencelis/SQLite.swift) - SQLite Wrapper
-* [Realm SDK](https://www.mongodb.com/docs/realm/sdk/swift/) - 모바일 DBMS
+* [SQLite](https://github.com/stephencelis/SQLite.swift) - SQLite Wrapper (Swift 기반)
+* [GRDB](https://github.com/groue/GRDB.swift) - SQLite Wrapper (Swift 기반)
+* [FMDB](https://github.com/ccgus/fmdb) - SQLite Wrapper (Obj-C 기반)
+* [Realm SDK](https://www.mongodb.com/docs/realm/sdk/swift/) - MVCC 기반 DBMS
 * [Realm Studio](https://www.mongodb.com/docs/realm/studio/) - Realm Database 관리 도구
 
 <br>
