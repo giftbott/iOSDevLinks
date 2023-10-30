@@ -553,15 +553,13 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 **무료 동영상 사이트**
 
-* [T 아카데미](https://tacademy.sktechx.com)
+* [T아카데미](https://tacademy.skplanet.com)
 * [edwith](https://www.edwith.org)
-* [한글링](http://hangling.org/#/home)
-* [Realm 아카데미](https://academy.realm.io/kr/section/apple/)
-* [Programmers](https://programmers.co.kr/learn/)
 * [생활코딩](https://www.opentutorials.org)
 * [Khan Academy](https://ko.khanacademy.org/computing)
 * [KOCW](http://www.kocw.net)
 * [K-MOOC](http://www.kmooc.kr)
+* [Realm 아카데미](https://academy.realm.io/kr/section/apple/)
 
 **강의별 유/무료 동영상 사이트**
 
@@ -570,6 +568,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Coursera](https://www.coursera.org)
 * [UDACITY](https://www.udacity.com)
 * [Udemy](https://www.udemy.com)
+* [Programmers](https://programmers.co.kr/learn/)
 
 **Presentation Slide**
 
