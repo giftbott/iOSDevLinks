@@ -731,7 +731,8 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 **Terminal**
 
-* [iTerm](https://www.iterm2.com) - 기본 터미널 기능을 강화한 macOS용 터미널 프로그램
+* [iTerm](https://www.iterm2.com) - 대표적인 macOS용 터미널 프로그램
+* [warp](https://www.warp.dev) - AI 기능을 접목한 터미널 프로그램
 * [Oh My Zsh](https://ohmyz.sh) - Z Shell 설정 관리 프레임워크
 * [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - Powerline Fonts를 사용하는 Z Shell용 Theme
 
