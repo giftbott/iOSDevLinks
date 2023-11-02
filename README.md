@@ -303,11 +303,11 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 **Sound Effect** 
 
 * [Facebook SoundKit](https://design.facebook.com/toolsandresources/sound-kit-for-prototypes)
-* [Google Sound Library](https://developers.google.com/actions/tools/sound-library) 
+* [Google Sound Library](https://developers.google.com/actions/tools/sound-library)
 * [Free sound](https://freesound.org)
 * [SoundBible](http://soundbible.com)
 * [Find Sounds](http://www.findsounds.com) 
-* [Emoji Sounds](https://emojisounds.appsounds.pro) 
+* [Emoji Sounds](https://appsounds.pro/6)
 * [Free SFX](https://www.freesfx.co.uk)
 
 **Music**
