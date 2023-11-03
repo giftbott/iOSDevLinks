@@ -383,10 +383,12 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [GitHut](https://githut.info) - GitHub 에서 사용되는 각 프로그래밍 언어별 활성화 지표 시각화
 * [GitHub Trending](https://github.com/trending) - 오늘의 가장 트렌디한 GitHub 오픈소스 소개 
 
-**Bitbucket**
+**GitHub Alternatives**
 
+* [GitLab](https://gitlab.com)
 * [Bitbucket](https://bitbucket.org)
-* [Learn Git with Bitbucket](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+* [SourceForge](https://sourceforge.net)
+* [Gitea](https://gitea.com)
 
 <br>
 
@@ -630,8 +632,8 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 **GraphQL**
 
-* [GraphQL](https://graphql.org)
-* [GraphQL](https://www.graphql.com)
+* [GraphQL](https://graphql.org) - GraphQL 공식 사이트
+* [GraphQL](https://www.graphql.com) - 아폴로팀에서 운영하는 커뮤니티 기반 사이트
 * [Apollo Flatform](https://www.apollographql.com)
 * [How to GraphQL](https://www.howtographql.com)
 * [GraphQL Playground](https://github.com/prisma/graphql-playground)
@@ -657,7 +659,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 *모바일 데이터 관리를 위한 DBMS*
 
-* [SQLite](https://github.com/stephencelis/SQLite.swift) - SQLite Wrapper (Swift 기반)
+* [SQLite.swift](https://github.com/stephencelis/SQLite.swift) - SQLite Wrapper (Swift 기반)
 * [GRDB](https://github.com/groue/GRDB.swift) - SQLite Wrapper (Swift 기반)
 * [FMDB](https://github.com/ccgus/fmdb) - SQLite Wrapper (Obj-C 기반)
 * [Realm SDK](https://www.mongodb.com/docs/realm/sdk/swift/) - MVCC 기반 DBMS
