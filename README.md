@@ -530,7 +530,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 *간단한 Swift 코드를 실행시켜 볼 수 있는 온라인 Playground*
 
-* [Online Swift Playground](http://online.swiftplayground.run)
+* [SwiftFiddle](https://swiftfiddle.com)
 * [Swift Online](https://paiza.io/en/languages/swift)
 
 <br>
