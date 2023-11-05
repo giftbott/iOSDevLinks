@@ -394,12 +394,13 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 ## Dependency Manager
 
-*라이브러리 의존성 관리 매니저*
+*의존성 관리 매니저*
 
 * [Swift Package Manager GitHub](https://github.com/apple/swift-package-manager)
 * [Swift Package Manager Doc](https://www.swift.org/package-manager/)
 * [CocoaPods](https://cocoapods.org)
 * [Carthage](https://github.com/Carthage/Carthage)
+* [Mint](https://github.com/yonaskolb/Mint)
 
 <br>
 
