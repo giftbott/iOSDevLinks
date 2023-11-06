@@ -77,6 +77,14 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [iOS and iPadOS Usage](https://developer.apple.com/support/app-store/)
 * [Common App Rejections](https://developer.apple.com/app-store/review/rejections/)
 
+#### Release Notes
+
+- [Xcode Release Notes](https://developer.apple.com/documentation/xcode-release-notes)
+- [iOS & iPadOS Release Notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
+- [macOS Release Notes](https://developer.apple.com/documentation/macos-release-notes)
+- [watchOS Release Notes](https://developer.apple.com/documentation/watchos-release-notes)
+- [tvOS Release Notes](https://developer.apple.com/documentation/tvos-release-notes)
+
 #### System Status
 
 * [Developer System Status](https://developer.apple.com/system-status/)
@@ -88,6 +96,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 * [Swift Language Guide 번역본](https://bbiguduk.gitbook.io/swift/)
 * [Swift GitHub](https://github.com/apple/swift)
+* [Swift Changelog](https://github.com/apple/swift/blob/main/CHANGELOG.md)
 * [Swift Evolution](https://github.com/apple/swift-evolution) - Changes and user-visible enhancements to the Swift Programming Language
 * [Swift Evolution Overview](https://apple.github.io/swift-evolution/#)
 * [Swift Doc](https://swiftdoc.org) - Auto-generated documentation for Swift
