@@ -64,7 +64,9 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 #### Xcode
 
 * [Xcode Download](https://developer.apple.com/download)
-* [Xcode Help](http://help.apple.com/xcode/)
+* [Xcode Guide](https://developer.apple.com/documentation/xcode)
+* [Xcode Help](http://help.apple.com/xcode)
+* [Simulator Help](https://help.apple.com/simulator/mac/current)
 
 #### App Store
 
@@ -129,21 +131,26 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 ## Apple Programming Guide
 
-*애플 프로그래밍 가이드 문서*
+*애플 프로그래밍 가이드 모음*
 
-* [ViewController Programming Guide for iOS](https://goo.gl/pLv5rF) 
-* [View Programming Guide for iOS](https://goo.gl/cc9bx1) 
-* [Auto Layout Guide](https://goo.gl/jPnmcX) 
-* [Table View Programming Guide for iOS](https://goo.gl/2JUPAu)
-* [Debugging with Xcode](https://goo.gl/4XZNxq) 
-* [Code Signing Guide](https://goo.gl/1KZL5q) 
-* [Simulator User Guide](https://goo.gl/p5hp2q)
-* [File System Programming Guide](https://goo.gl/Bxm1H6)
-* [Text Programming Guide for iOS](https://goo.gl/E1ndzH)
-* [Bundle Programming Guide](https://goo.gl/CjMYXh)
-* [In-App Purchase Programming Guide](https://goo.gl/64c7LP)
-* [Information Property List Key Reference](https://goo.gl/6Pt2te)
-* [Local and Remote Notification Programming Guide](https://goo.gl/RQRmHT)
+**문서 홈**
+
+* [Apple Documentation](https://developer.apple.com/documentation)
+* [Apple Documentation Archive](https://developer.apple.com/library/archive)
+
+**주요 문서**
+
+* [ViewController Programming Guide for iOS](https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS) 
+* [View Programming Guide for iOS](https://developer.apple.com/library/archive/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS)
+* [Auto Layout Guide](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG)
+* [Code Signing Guide](https://developer.apple.com/library/archive/documentation/Security/Conceptual/CodeSigningGuide)
+* [Bundle Programming Guide](https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFBundles)
+* [Text Programming Guide for iOS](https://developer.apple.com/library/archive/documentation/StringsTextFonts/Conceptual/TextAndWebiPhoneOS)
+* [File System Programming Guide](https://developer.apple.com/library/archive/documentation/FileManagement/Conceptual/FileSystemProgrammingGuide)
+* [Apple URL Scheme Reference](https://developer.apple.com/library/archive/featuredarticles/iPhoneURLScheme_Reference)
+* [Information Property List Key Reference](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference)
+* [In-App Purchase Programming Guide](https://developer.apple.com/documentation/storekit/in-app_purchase)
+* [Push Notification Guide](https://developer.apple.com/documentation/usernotifications)
 
 <br>
 
