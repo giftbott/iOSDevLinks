@@ -624,9 +624,11 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Instagram API](https://www.instagram.com/developer/)
 * [News API](https://newsapi.org)
 
-<br>
+**Public API Collection**
 
-## Mock API
+* [Public APIs](https://github.com/public-apis/public-apis)
+
+**Mock API**
 
 * [The Star Wars API](https://swapi.co/)
 * [Random User Generator](https://randomuser.me/)
