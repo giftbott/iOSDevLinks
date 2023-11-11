@@ -344,6 +344,8 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [LoremFlickr](https://loremflickr.com) 
 * [Lorem Picsum](https://picsum.photos) 
 * [dummyImage](https://dummyimage.com)
+* [PlaceDog](https://placedog.net)
+* [Placekitten](https://placekitten.com)
 
 **High Resolution Photo** 
 
