@@ -375,6 +375,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Git 공식 홈페이지](https://git-scm.com)
 * [Pro Git 2nd Edition](https://git-scm.com/book/ko/v2)
 * [git ignore.io](https://www.gitignore.io)
+* [GitHub Blogs: Highlights from Git](https://github.blog/?s=Highlights+from+Git) - Git 버전별 하이라이트
 
 **Tutorial / Guide**
 
