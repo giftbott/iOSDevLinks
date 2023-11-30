@@ -185,6 +185,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [LetSwift](http://letswift.kr) - 현재 국내 최대 규모 iOS 컨퍼런스 (1년 단위)
 * [let us: Go!](https://letusgo.app/) - 카카오톡 오픈 채팅방이 주축이 되어 현재 가장 활발하게 운영 중인 컨퍼런스 (분기 단위)
 * [Swift Korea Meetup](https://swiftkorea.github.io/meetup) - Swift Korea Facebook Group을 기반으로 운영되는 컨퍼런스 (비정기)
+* [Seoul iOS Meetup](https://www.meetup.com/seoul-ios-meetup) - 밋업의 iOS 그룹. 영어로 진행하며 상대적으로 소규모이지만 꾸준히 이벤트 진행 (매월)
 
 **Overseas**
 
@@ -215,6 +216,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Mobiconf](https://www.youtube.com/c/MobiconfProfile/playlists)
 * [CODEMOBILE](https://www.youtube.com/c/CODEMOBILEUK/playlists)
 * [Hacking with Swift Live](https://www.youtube.com/watch?v=y4qFRLp_JNM&list=PLuoeXyslFTuavqQMKWYmrd6L2_goxBXDz)
+* [Seoul iOS Meetup](https://www.youtube.com/@SeouliOSMeetup)
 
 <br>
 
