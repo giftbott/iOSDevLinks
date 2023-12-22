@@ -874,3 +874,4 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com) - Privacy Policy, Terms & Conditions 생성
 * [swift-scripts](https://github.com/PaulTaykalo/swift-scripts) - 미사용 Swift code, file, function 탐색
 * [DeallocationChecker](https://github.com/fastred/DeallocationChecker) - 메모리 릭이 발생하는 뷰컨트롤러 캐치
+* [XcodeBenchmark](https://github.com/devMEremenko/XcodeBenchmark) - Xcode 버전 및 기기별 컴파일 타임 벤치마크
