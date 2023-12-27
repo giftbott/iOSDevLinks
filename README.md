@@ -251,12 +251,11 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 *iPhone, iPad 등 각 기기에 대한 명세서 링크* 
 
-* [iPhone Specs](https://support.apple.com/ko_KR/specs/iphone)
-* [iOS Device Compatibility Reference](https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html)
-* [iOS Device Specs Grid](http://blakespot.com/ios_device_specifications_grid.html)
-* [List of iOS Devices](https://en.wikipedia.org/wiki/List_of_iOS_devices)
-* [iPhone Resolutions](https://goo.gl/vwbzQY) 
-* [iPhone X Screen Demystified](https://goo.gl/rxLKtX)
+* [Screen Sizes](https://screensizes.app) - 그냥 강추
+* [iPhone Specs](https://support.apple.com/ko_KR/specs/iphone) - 제품별 기술 사양
+* [iOS Device Compatibility Reference](https://developer.apple.com/library/archive/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html) - 애플 아카이브 문서(iPhone X까지 제공)
+* [Wiki - List of iOS Devices](https://en.wikipedia.org/wiki/List_of_iOS_devices) - 아이폰 목록 위키 문서
+* [iPhone Resolutions](https://goo.gl/vwbzQY) - 아이폰 해상도 가이드
 
 <br>
 
