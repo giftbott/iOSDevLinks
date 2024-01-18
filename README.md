@@ -224,6 +224,8 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 *iOS 개발 지식을 채워줄 블로그 모음*
 
+**해외**
+ 
 * [Kodeco](https://www.kodeco.com) - Ray Wenderich
 * [Point-Free](https://www.pointfree.co/blog)
 * [APPCODA](https://www.appcoda.com)
@@ -234,6 +236,12 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Swift with Majid](https://swiftwithmajid.com)
 * [Holy Swift](https://holyswift.app)
 * [NSHipster](http://nshipster.com)
+
+**국내**
+
+* [민소네님](https://minsone.github.io)
+* [제드님](https://zeddios.tistory.com)
+
 <br>
 
 ## Mailing List
