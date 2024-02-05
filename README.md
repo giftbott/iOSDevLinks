@@ -114,7 +114,6 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 * [Combine Doc](https://developer.apple.com/documentation/combine)
 * [Combine Community](https://github.com/CombineCommunity)
-* [RxSwift to Combine Cheatsheet](https://github.com/freak4pc/rxswift-to-combine-cheatsheet)
 
 #### WWDC
 
