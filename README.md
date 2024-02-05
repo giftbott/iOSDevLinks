@@ -722,6 +722,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Google Analytics](https://www.google.com/analytics)
 * [Crashlytics](https://try.crashlytics.com)
 * [Yahoo Flurry](https://developer.yahoo.com/analytics/)
+* [Amplitude](https://github.com/amplitude/Amplitude-iOS) - 데이터 분석 툴 입니다. 하지만 SPM을 지원 X
 
 **Paid**
 
