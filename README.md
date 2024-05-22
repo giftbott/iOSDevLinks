@@ -61,6 +61,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Developer Site](https://developer.apple.com/develop/)
 * [Developer Documentation](https://developer.apple.com/documentation/)
 * [Documentation Archive](https://developer.apple.com/library/archive/navigation/)
+* [Apple Developer Pathways](https://developer.apple.com/pathways/)
 
 #### Xcode
 
