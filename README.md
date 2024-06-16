@@ -103,14 +103,11 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Swift Evolution Overview](https://apple.github.io/swift-evolution/#)
 * [Swift Doc](https://swiftdoc.org) - Auto-generated documentation for Swift
 
-#### SwiftUI & UIKit
+#### SwiftUI
 
 * [SwiftUI Doc](https://developer.apple.com/documentation/swiftui)
-* [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials)
 * [About SwiftUI](https://github.com/Juanpe/About-SwiftUI)
 * [SwiftUI Field Guide](https://www.swiftuifieldguide.com)
-* [Fucking SwiftUI](https://fuckingswiftui.com/)
-* [UIKit Doc](https://developer.apple.com/documentation/uikit)
 
 #### Combine
 
@@ -124,7 +121,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 #### Design Guideline
 
-* [Human Interface Guideline](https://developer.apple.com/design/human-interface-guidelines)
+* [Human Interface Guideline](https://developer.apple.com/kr/design/human-interface-guidelines)
 * [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
 
 #### Coding Style Guideline
@@ -149,7 +146,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Apple Documentation](https://developer.apple.com/documentation)
 * [Apple Documentation Archive](https://developer.apple.com/library/archive)
 
-**주요 문서**
+#### 주요 문서
 
 * [ViewController Programming Guide for iOS](https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS) 
 * [View Programming Guide for iOS](https://developer.apple.com/library/archive/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS)
@@ -162,6 +159,12 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Information Property List Key Reference](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference)
 * [In-App Purchase Programming Guide](https://developer.apple.com/documentation/storekit/in-app_purchase)
 * [Push Notification Guide](https://developer.apple.com/documentation/usernotifications)
+
+ #### Tutorials
+
+* [App Dev Training](https://developer.apple.com/tutorials/app-dev-training)
+* [Swift Tutorials](https://developer.apple.com/tutorials/develop-in-swift)
+* [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui/tutorials)
 
 <br>
 
