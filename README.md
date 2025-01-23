@@ -176,7 +176,6 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Slack - Swift (Korea)](https://swiftkorea.slack.com)
 * [Slack - iOS Developers (Global)](https://ios-developers.slack.com)
 * [Swift Korea Facebook Group](https://www.facebook.com/groups/swiftkor)
-* [아이폰 데브](http://iphonedev.co.kr)
 * [맥부기 (카페)](https://cafe.naver.com/mcbugi)
 * [맥 쓰는 사람들 (카페)](https://cafe.naver.com/inmacbook)
 
@@ -188,7 +187,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 * [LetSwift](http://letswift.kr) - 연 1회 진행되는 대규모 컨퍼런스
 * [KWDC](https://kwdc.dev) - 연 1회 진행되는 대규모 컨퍼런스
-* [let us: Go!](https://letusgo.app/) - 카카오톡 오픈 채팅방 기반. 분기당 1회
+* [let us: Go!](https://letusgo2024-winter.vercel.app/) - 카카오톡 오픈 채팅방 기반. 분기당 1회
 * [Swift Korea Meetup](https://swiftkorea.github.io/meetup) - Swift Korea Facebook Group 기반. 비정기 진행
 * [Seoul iOS Meetup](https://www.meetup.com/seoul-ios-meetup) - 밋업의 iOS 그룹. 영어로 진행하며 소규모이지만 상대적으로 자주 개최
 
@@ -850,7 +849,6 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 **Info**
 
-* [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [iOS 인터뷰 질문 목록](https://github.com/JeaSungLEE/iOSInterviewquestions)
 * [주니어 채용 스케쥴 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 * [영문 이력서 작성 팁](https://sujinlee.me/entry-level-en-resume)
@@ -863,13 +861,13 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 
 **Survey**
 
-* [Stackoverflow - 2023 Developer Survey Results](https://survey.stackoverflow.co/2023)
+* [Stackoverflow - 2024 Developer Survey Results](https://survey.stackoverflow.co/2024)
 * [Programmers - 2023 Programmers Dev·Survey](https://programmers.co.kr/pages/2023-dev-survey)
 
 **Ranking**
 
 - [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
-- [RedMonk Programming Language Rankings: 2023](https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23)
+- [RedMonk Programming Language Rankings: 2024](https://redmonk.com/sogrady/2024/09/12/language-rankings-6-24/)
 
 <br>
 
