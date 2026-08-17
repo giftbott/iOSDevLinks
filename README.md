@@ -541,6 +541,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [Behance](https://www.behance.net/search?search=ios)
 * [UI8](https://ui8.net)
 * [Mobbin](https://mobbin.design)
+* [UIZZE](https://uizze.com/mobbin-alternative) - Free anti-ui-slop Skill and no-account preview; full UIZZE adds live research across 800,000+ real web and iOS product screens plus hosted MCP workflows for design contracts, validation, audits, and critiques.
 
 **Material Design**
 
