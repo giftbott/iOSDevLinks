@@ -253,6 +253,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 * [iOS Dev Weekly](https://iosdevweekly.com)
 * [Swift Anytime Weekly](https://swiftanytime.curated.co)
 * [Weekly Articles by tanaschita](https://tanaschita.com)
+* [Storefront Brief](https://fortune-insight.onrender.com/shop/brief/index.html) - [RSS](https://fortune-insight.onrender.com/shop/brief/feed.xml) · [Issue 1](https://fortune-insight.onrender.com/shop/brief/issue-001-en.html)
 
 <br>
 
