@@ -716,6 +716,7 @@ iOS 개발자들에게 유용한 사이트를 모아 카테고리별로 정리�
 *자동화 도구*
 
 * [Fastlane](https://fastlane.tools) - 사이닝, 테스트, 빌드, 배포 등 앱 프로그래밍 외적인 작업 자동화 도구
+* [Agent QA](https://github.com/vostride/agent-qa) - 자연어로 웹 및 iOS를 포함한 모바일 테스트를 작성·실행하고, 실행 메모리와 UI 변화 적응을 지원하는 FSL-1.1-ALv2 소스 사용 가능 QA 도구
 
 <br>
 
